@@ -663,8 +663,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-01-03,Telangana,Mahabubnagar,5748,16116
 2025-01-03,Telangana,Mancherial,483,3732
 2025-01-03,Telangana,Medak,2501,8887
-2025-01-03,Telangana,Medchal-malkajgiri,2658,14039
-2025-01-03,Telangana,Medchal?malkajgiri,87,257
+2025-01-03,Telangana,Medchal-malkajgiri,2745,14296
 2025-01-03,Telangana,Mulugu,292,2680
 2025-01-03,Telangana,Nagarkurnool,924,3771
 2025-01-03,Telangana,Nalgonda,2928,15589
@@ -3540,8 +3539,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-01-11,Rajasthan,Chittorgarh,22,288
 2025-01-11,Rajasthan,Churu,45,316
 2025-01-11,Rajasthan,Dausa,33,173
-2025-01-11,Rajasthan,Deeg,0,2
-2025-01-11,Rajasthan,Deeg ,0,17
+2025-01-11,Rajasthan,Deeg,0,19
 2025-01-11,Rajasthan,Dhaulpur,0,8
 2025-01-11,Rajasthan,Dholpur,46,273
 2025-01-11,Rajasthan,Dungarpur,43,620
@@ -4466,8 +4464,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-01-12,Rajasthan,Chittorgarh,14,162
 2025-01-12,Rajasthan,Churu,54,264
 2025-01-12,Rajasthan,Dausa,39,225
-2025-01-12,Rajasthan,Deeg,0,4
-2025-01-12,Rajasthan,Deeg ,1,6
+2025-01-12,Rajasthan,Deeg,1,10
 2025-01-12,Rajasthan,Dhaulpur,0,4
 2025-01-12,Rajasthan,Dholpur,42,207
 2025-01-12,Rajasthan,Didwana-Kuchaman,0,6
@@ -4566,8 +4563,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-01-12,Telangana,Mahabubnagar,209,588
 2025-01-12,Telangana,Mancherial,28,265
 2025-01-12,Telangana,Medak,58,449
-2025-01-12,Telangana,Medchal-malkajgiri,75,407
-2025-01-12,Telangana,Medchal?malkajgiri,0,1
+2025-01-12,Telangana,Medchal-malkajgiri,75,408
 2025-01-12,Telangana,Medchal−malkajgiri,4,19
 2025-01-12,Telangana,Mulugu,15,99
 2025-01-12,Telangana,Nagarkurnool,18,91
@@ -6348,7 +6344,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-02-11,Rajasthan,Chittorgarh,20,102
 2025-02-11,Rajasthan,Churu,20,88
 2025-02-11,Rajasthan,Dausa,51,86
-2025-02-11,Rajasthan,Deeg ,2,15
+2025-02-11,Rajasthan,Deeg,2,15
 2025-02-11,Rajasthan,Dholpur,22,133
 2025-02-11,Rajasthan,Dungarpur,7,122
 2025-02-11,Rajasthan,Ganganagar,13,115
@@ -7302,8 +7298,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-02-12,Rajasthan,Chittorgarh,37,271
 2025-02-12,Rajasthan,Churu,67,513
 2025-02-12,Rajasthan,Dausa,73,394
-2025-02-12,Rajasthan,Deeg,0,13
-2025-02-12,Rajasthan,Deeg ,4,14
+2025-02-12,Rajasthan,Deeg,4,27
 2025-02-12,Rajasthan,Dhaulpur,0,13
 2025-02-12,Rajasthan,Dholpur,75,492
 2025-02-12,Rajasthan,Didwana-Kuchaman,1,10
@@ -9215,8 +9210,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-03-11,Rajasthan,Chittorgarh,59,399
 2025-03-11,Rajasthan,Churu,89,551
 2025-03-11,Rajasthan,Dausa,81,365
-2025-03-11,Rajasthan,Deeg,0,2
-2025-03-11,Rajasthan,Deeg ,4,25
+2025-03-11,Rajasthan,Deeg,4,27
 2025-03-11,Rajasthan,Dhaulpur,5,12
 2025-03-11,Rajasthan,Dholpur,87,384
 2025-03-11,Rajasthan,Dungarpur,58,617
@@ -10169,8 +10163,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-03-12,Rajasthan,Chittorgarh,78,342
 2025-03-12,Rajasthan,Churu,85,479
 2025-03-12,Rajasthan,Dausa,61,321
-2025-03-12,Rajasthan,Deeg,0,2
-2025-03-12,Rajasthan,Deeg ,3,19
+2025-03-12,Rajasthan,Deeg,3,21
 2025-03-12,Rajasthan,Dhaulpur,0,3
 2025-03-12,Rajasthan,Dholpur,90,470
 2025-03-12,Rajasthan,Didwana-Kuchaman,0,32
@@ -12071,7 +12064,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-04-11,Rajasthan,Chittorgarh,38,385
 2025-04-11,Rajasthan,Churu,35,393
 2025-04-11,Rajasthan,Dausa,42,367
-2025-04-11,Rajasthan,Deeg ,0,2
+2025-04-11,Rajasthan,Deeg,0,2
 2025-04-11,Rajasthan,Dhaulpur,0,10
 2025-04-11,Rajasthan,Dholpur,71,437
 2025-04-11,Rajasthan,Dungarpur,39,429
@@ -12163,8 +12156,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-04-11,Telangana,Mahabubnagar,521,946
 2025-04-11,Telangana,Mancherial,12,48
 2025-04-11,Telangana,Medak,166,479
-2025-04-11,Telangana,Medchal-malkajgiri,39,132
-2025-04-11,Telangana,Medchal?malkajgiri,2,0
+2025-04-11,Telangana,Medchal-malkajgiri,41,132
 2025-04-11,Telangana,Medchal−malkajgiri,8,40
 2025-04-11,Telangana,Mulugu,3,11
 2025-04-11,Telangana,Nagarkurnool,13,55
@@ -13036,7 +13028,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-04-12,Rajasthan,Chittorgarh,49,368
 2025-04-12,Rajasthan,Churu,81,485
 2025-04-12,Rajasthan,Dausa,40,335
-2025-04-12,Rajasthan,Deeg ,0,25
+2025-04-12,Rajasthan,Deeg,0,25
 2025-04-12,Rajasthan,Dhaulpur,0,12
 2025-04-12,Rajasthan,Dholpur,50,405
 2025-04-12,Rajasthan,Didwana-Kuchaman,1,30
@@ -14902,7 +14894,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-05-11,Rajasthan,Chittorgarh,30,172
 2025-05-11,Rajasthan,Churu,41,208
 2025-05-11,Rajasthan,Dausa,31,184
-2025-05-11,Rajasthan,Deeg ,2,20
+2025-05-11,Rajasthan,Deeg,2,20
 2025-05-11,Rajasthan,Dhaulpur,0,2
 2025-05-11,Rajasthan,Dholpur,32,197
 2025-05-11,Rajasthan,Dungarpur,21,124
@@ -15840,8 +15832,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-05-12,Rajasthan,Chittorgarh,15,168
 2025-05-12,Rajasthan,Churu,35,241
 2025-05-12,Rajasthan,Dausa,44,258
-2025-05-12,Rajasthan,Deeg,0,1
-2025-05-12,Rajasthan,Deeg ,0,13
+2025-05-12,Rajasthan,Deeg,0,14
 2025-05-12,Rajasthan,Dholpur,29,173
 2025-05-12,Rajasthan,Didwana-Kuchaman,1,12
 2025-05-12,Rajasthan,Dungarpur,20,246
@@ -16781,8 +16772,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-06-09,Rajasthan,Chittorgarh,25,161
 2025-06-09,Rajasthan,Churu,30,235
 2025-06-09,Rajasthan,Dausa,51,243
-2025-06-09,Rajasthan,Deeg,0,11
-2025-06-09,Rajasthan,Deeg ,0,2
+2025-06-09,Rajasthan,Deeg,0,13
 2025-06-09,Rajasthan,Dhaulpur,0,16
 2025-06-09,Rajasthan,Dholpur,38,178
 2025-06-09,Rajasthan,Dungarpur,5,101
@@ -17742,8 +17732,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-06-11,Rajasthan,Chittorgarh,42,391
 2025-06-11,Rajasthan,Churu,86,573
 2025-06-11,Rajasthan,Dausa,86,399
-2025-06-11,Rajasthan,Deeg,0,3
-2025-06-11,Rajasthan,Deeg ,0,20
+2025-06-11,Rajasthan,Deeg,0,23
 2025-06-11,Rajasthan,Dhaulpur,0,10
 2025-06-11,Rajasthan,Dholpur,117,498
 2025-06-11,Rajasthan,Dungarpur,63,429
@@ -18684,8 +18673,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-06-12,Rajasthan,Chittorgarh,21,118
 2025-06-12,Rajasthan,Churu,25,169
 2025-06-12,Rajasthan,Dausa,13,121
-2025-06-12,Rajasthan,Deeg,0,2
-2025-06-12,Rajasthan,Deeg ,0,10
+2025-06-12,Rajasthan,Deeg,0,12
 2025-06-12,Rajasthan,Dholpur,18,159
 2025-06-12,Rajasthan,Didwana-Kuchaman,0,13
 2025-06-12,Rajasthan,Dungarpur,19,288
@@ -20479,8 +20467,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-07-11,Rajasthan,Chittorgarh,50,408
 2025-07-11,Rajasthan,Churu,53,478
 2025-07-11,Rajasthan,Dausa,57,453
-2025-07-11,Rajasthan,Deeg,0,1
-2025-07-11,Rajasthan,Deeg ,3,20
+2025-07-11,Rajasthan,Deeg,3,21
 2025-07-11,Rajasthan,Dhaulpur,0,6
 2025-07-11,Rajasthan,Dholpur,81,354
 2025-07-11,Rajasthan,Dungarpur,45,533
@@ -21413,8 +21400,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-07-12,Rajasthan,Chittorgarh,23,96
 2025-07-12,Rajasthan,Churu,26,113
 2025-07-12,Rajasthan,Dausa,28,86
-2025-07-12,Rajasthan,Deeg,0,2
-2025-07-12,Rajasthan,Deeg ,0,10
+2025-07-12,Rajasthan,Deeg,0,12
 2025-07-12,Rajasthan,Dhaulpur,0,1
 2025-07-12,Rajasthan,Dholpur,15,70
 2025-07-12,Rajasthan,Didwana-Kuchaman,2,8
@@ -22374,8 +22360,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-08-09,Rajasthan,Chittorgarh,83,442
 2025-08-09,Rajasthan,Churu,58,377
 2025-08-09,Rajasthan,Dausa,58,378
-2025-08-09,Rajasthan,Deeg,2,7
-2025-08-09,Rajasthan,Deeg ,2,1
+2025-08-09,Rajasthan,Deeg,4,8
 2025-08-09,Rajasthan,Dhaulpur,0,5
 2025-08-09,Rajasthan,Dholpur,75,321
 2025-08-09,Rajasthan,Dungarpur,60,461
@@ -23322,8 +23307,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-08-11,Rajasthan,Chittorgarh,54,378
 2025-08-11,Rajasthan,Churu,71,491
 2025-08-11,Rajasthan,Dausa,69,336
-2025-08-11,Rajasthan,Deeg,2,6
-2025-08-11,Rajasthan,Deeg ,0,8
+2025-08-11,Rajasthan,Deeg,2,14
 2025-08-11,Rajasthan,Dhaulpur,0,4
 2025-08-11,Rajasthan,Dholpur,64,341
 2025-08-11,Rajasthan,Dungarpur,53,459
@@ -24294,8 +24278,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-08-12,Rajasthan,Chittorgarh,89,628
 2025-08-12,Rajasthan,Churu,129,627
 2025-08-12,Rajasthan,Dausa,70,386
-2025-08-12,Rajasthan,Deeg,0,2
-2025-08-12,Rajasthan,Deeg ,3,17
+2025-08-12,Rajasthan,Deeg,3,19
 2025-08-12,Rajasthan,Dholpur,111,500
 2025-08-12,Rajasthan,Didwana-Kuchaman,3,21
 2025-08-12,Rajasthan,Dungarpur,69,578
@@ -25246,8 +25229,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-09-09,Rajasthan,Chittorgarh,57,461
 2025-09-09,Rajasthan,Churu,70,457
 2025-09-09,Rajasthan,Dausa,73,369
-2025-09-09,Rajasthan,Deeg,0,5
-2025-09-09,Rajasthan,Deeg ,0,4
+2025-09-09,Rajasthan,Deeg,0,9
 2025-09-09,Rajasthan,Dhaulpur,0,14
 2025-09-09,Rajasthan,Dholpur,96,503
 2025-09-09,Rajasthan,Dungarpur,50,429
@@ -26134,7 +26116,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-09-11,Rajasthan,Chittorgarh,12,98
 2025-09-11,Rajasthan,Churu,23,128
 2025-09-11,Rajasthan,Dausa,6,46
-2025-09-11,Rajasthan,Deeg ,0,6
+2025-09-11,Rajasthan,Deeg,0,6
 2025-09-11,Rajasthan,Dholpur,8,41
 2025-09-11,Rajasthan,Dungarpur,16,77
 2025-09-11,Rajasthan,Ganganagar,6,21
@@ -27079,8 +27061,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-09-12,Rajasthan,Chittorgarh,42,393
 2025-09-12,Rajasthan,Churu,99,359
 2025-09-12,Rajasthan,Dausa,50,262
-2025-09-12,Rajasthan,Deeg,0,1
-2025-09-12,Rajasthan,Deeg ,3,7
+2025-09-12,Rajasthan,Deeg,3,8
 2025-09-12,Rajasthan,Dhaulpur,0,14
 2025-09-12,Rajasthan,Dholpur,24,149
 2025-09-12,Rajasthan,Didwana-Kuchaman,2,21
@@ -28031,8 +28012,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-10-09,Rajasthan,Chittorgarh,75,350
 2025-10-09,Rajasthan,Churu,53,340
 2025-10-09,Rajasthan,Dausa,41,216
-2025-10-09,Rajasthan,Deeg,0,1
-2025-10-09,Rajasthan,Deeg ,0,3
+2025-10-09,Rajasthan,Deeg,0,4
 2025-10-09,Rajasthan,Dhaulpur,0,8
 2025-10-09,Rajasthan,Dholpur,64,437
 2025-10-09,Rajasthan,Dungarpur,32,440
@@ -28985,8 +28965,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-10-11,Rajasthan,Chittorgarh,60,450
 2025-10-11,Rajasthan,Churu,76,421
 2025-10-11,Rajasthan,Dausa,83,314
-2025-10-11,Rajasthan,Deeg,0,2
-2025-10-11,Rajasthan,Deeg ,3,16
+2025-10-11,Rajasthan,Deeg,3,18
 2025-10-11,Rajasthan,Dhaulpur,0,6
 2025-10-11,Rajasthan,Dholpur,59,337
 2025-10-11,Rajasthan,Dungarpur,54,425
@@ -29944,8 +29923,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-10-12,Rajasthan,Chittorgarh,28,232
 2025-10-12,Rajasthan,Churu,54,247
 2025-10-12,Rajasthan,Dausa,23,152
-2025-10-12,Rajasthan,Deeg,0,6
-2025-10-12,Rajasthan,Deeg ,0,10
+2025-10-12,Rajasthan,Deeg,0,16
 2025-10-12,Rajasthan,Dhaulpur,1,4
 2025-10-12,Rajasthan,Dholpur,44,179
 2025-10-12,Rajasthan,Didwana-Kuchaman,1,10
@@ -30902,8 +30880,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-11-09,Rajasthan,Chittorgarh,82,458
 2025-11-09,Rajasthan,Churu,51,332
 2025-11-09,Rajasthan,Dausa,57,224
-2025-11-09,Rajasthan,Deeg,0,4
-2025-11-09,Rajasthan,Deeg ,0,12
+2025-11-09,Rajasthan,Deeg,0,16
 2025-11-09,Rajasthan,Dhaulpur,0,5
 2025-11-09,Rajasthan,Dholpur,37,274
 2025-11-09,Rajasthan,Dungarpur,58,528
@@ -31853,8 +31830,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-11-11,Rajasthan,Chittorgarh,41,271
 2025-11-11,Rajasthan,Churu,46,239
 2025-11-11,Rajasthan,Dausa,47,211
-2025-11-11,Rajasthan,Deeg,0,5
-2025-11-11,Rajasthan,Deeg ,1,17
+2025-11-11,Rajasthan,Deeg,1,22
 2025-11-11,Rajasthan,Dhaulpur,0,8
 2025-11-11,Rajasthan,Dholpur,62,334
 2025-11-11,Rajasthan,Dungarpur,34,328
@@ -32822,8 +32798,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-11-12,Rajasthan,Chittorgarh,52,424
 2025-11-12,Rajasthan,Churu,73,516
 2025-11-12,Rajasthan,Dausa,46,249
-2025-11-12,Rajasthan,Deeg,0,2
-2025-11-12,Rajasthan,Deeg ,1,14
+2025-11-12,Rajasthan,Deeg,1,16
 2025-11-12,Rajasthan,Dhaulpur,0,14
 2025-11-12,Rajasthan,Dholpur,103,517
 2025-11-12,Rajasthan,Didwana-Kuchaman,6,26
@@ -33769,8 +33744,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-12-09,Rajasthan,Chittorgarh,86,498
 2025-12-09,Rajasthan,Churu,61,408
 2025-12-09,Rajasthan,Dausa,64,266
-2025-12-09,Rajasthan,Deeg,0,1
-2025-12-09,Rajasthan,Deeg ,2,8
+2025-12-09,Rajasthan,Deeg,2,9
 2025-12-09,Rajasthan,Dhaulpur,0,1
 2025-12-09,Rajasthan,Dholpur,82,388
 2025-12-09,Rajasthan,Dungarpur,51,481
@@ -34708,7 +34682,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-12-11,Rajasthan,Chittorgarh,27,250
 2025-12-11,Rajasthan,Churu,26,222
 2025-12-11,Rajasthan,Dausa,54,227
-2025-12-11,Rajasthan,Deeg ,0,6
+2025-12-11,Rajasthan,Deeg,0,6
 2025-12-11,Rajasthan,Dholpur,52,284
 2025-12-11,Rajasthan,Dungarpur,29,300
 2025-12-11,Rajasthan,Ganganagar,18,162
@@ -35673,8 +35647,7 @@ date,state,district,demo_age_5_17,demo_age_17_plus
 2025-12-12,Rajasthan,Chittorgarh,87,476
 2025-12-12,Rajasthan,Churu,147,793
 2025-12-12,Rajasthan,Dausa,84,525
-2025-12-12,Rajasthan,Deeg,2,2
-2025-12-12,Rajasthan,Deeg ,5,31
+2025-12-12,Rajasthan,Deeg,7,33
 2025-12-12,Rajasthan,Dhaulpur,0,10
 2025-12-12,Rajasthan,Dholpur,73,413
 2025-12-12,Rajasthan,Didwana-Kuchaman,4,58

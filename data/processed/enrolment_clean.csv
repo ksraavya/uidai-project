@@ -15050,7 +15050,7 @@ date,state,district,age_0_5,age_5_17,age_18_greater
 2025-09-09,Rajasthan,Chittorgarh,92,25,2
 2025-09-09,Rajasthan,Churu,170,66,1
 2025-09-09,Rajasthan,Dausa,131,24,0
-2025-09-09,Rajasthan,Deeg ,0,1,0
+2025-09-09,Rajasthan,Deeg,0,1,0
 2025-09-09,Rajasthan,Dhaulpur,1,0,0
 2025-09-09,Rajasthan,Dholpur,154,67,0
 2025-09-09,Rajasthan,Dungarpur,79,63,1
@@ -15923,8 +15923,7 @@ date,state,district,age_0_5,age_5_17,age_18_greater
 2025-09-11,Rajasthan,Chittorgarh,32,11,0
 2025-09-11,Rajasthan,Churu,68,33,0
 2025-09-11,Rajasthan,Dausa,58,24,0
-2025-09-11,Rajasthan,Deeg,1,0,0
-2025-09-11,Rajasthan,Deeg ,0,1,0
+2025-09-11,Rajasthan,Deeg,1,1,0
 2025-09-11,Rajasthan,Dhaulpur,1,1,0
 2025-09-11,Rajasthan,Dholpur,41,23,0
 2025-09-11,Rajasthan,Dungarpur,44,34,0
@@ -16908,8 +16907,7 @@ date,state,district,age_0_5,age_5_17,age_18_greater
 2025-10-09,Telangana,Mahabubnagar,248,76,1
 2025-10-09,Telangana,Mancherial,28,4,0
 2025-10-09,Telangana,Medak,154,35,0
-2025-10-09,Telangana,Medchal-malkajgiri,66,18,1
-2025-10-09,Telangana,Medchal?malkajgiri,0,1,0
+2025-10-09,Telangana,Medchal-malkajgiri,66,19,1
 2025-10-09,Telangana,Medchal−malkajgiri,8,0,0
 2025-10-09,Telangana,Mulugu,19,9,0
 2025-10-09,Telangana,Nagarkurnool,40,7,0
