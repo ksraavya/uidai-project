@@ -1,0 +1,953 @@
+state,district,enrolment_bin,lifecycle_typology,child_bio_engagement,adult_bio_engagement,adult_demo_engagement,lifecycle_gap_score
+Andaman & Nicobar Islands,Andamans,Low Enrolment,Healthy lifecycle engagement,115.5,,,0
+Andaman and Nicobar Islands,Nicobar,Low Enrolment,Healthy lifecycle engagement,164.8,,,0
+Andaman and Nicobar Islands,North And Middle Andaman,Low Enrolment,Healthy lifecycle engagement,2830.0,,,0
+Andaman and Nicobar Islands,South Andaman,Low Enrolment,Healthy lifecycle engagement,1298.25,,,0
+Andhra Pradesh,Adilabad,Medium Enrolment,Healthy lifecycle engagement,81.0,,,0
+Andhra Pradesh,Alluri Sitharama Raju,Low Enrolment,Healthy lifecycle engagement,148.15555555555557,541.0714285714286,540.9285714285714,0
+Andhra Pradesh,Anakapalli,Low Enrolment,Healthy lifecycle engagement,2640.0,2391.0,7399.0,0
+Andhra Pradesh,Anantapur,Medium Enrolment,Healthy lifecycle engagement,234.68421052631578,,,0
+Andhra Pradesh,Ananthapur,Medium Enrolment,Healthy lifecycle engagement,1196.5217391304348,,,0
+Andhra Pradesh,Ananthapuramu,Medium Enrolment,Healthy lifecycle engagement,1990.0,3027.2,6649.0,0
+Andhra Pradesh,Annamayya,Low Enrolment,Healthy lifecycle engagement,432.6,71.97619047619048,516.8333333333334,0
+Andhra Pradesh,Bapatla,Low Enrolment,Healthy lifecycle engagement,203.92307692307693,273.0,1351.3333333333333,0
+Andhra Pradesh,Chittoor,High Enrolment,Healthy lifecycle engagement,614.405529953917,5888.0,9431.09090909091,0
+Andhra Pradesh,Cuddapah,Medium Enrolment,Healthy lifecycle engagement,637.4166666666666,42353.0,44271.0,0
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,Low Enrolment,Healthy lifecycle engagement,270.6,284.5,964.625,0
+Andhra Pradesh,East Godavari,High Enrolment,Healthy lifecycle engagement,992.0126582278481,15394.6,18647.4,0
+Andhra Pradesh,Eluru,Low Enrolment,Healthy lifecycle engagement,215.53333333333333,654.6,1825.2,0
+Andhra Pradesh,Guntur,High Enrolment,Healthy lifecycle engagement,489.9709677419355,9096.444444444445,12348.777777777777,0
+Andhra Pradesh,Hyderabad,Medium Enrolment,Healthy lifecycle engagement,49.39481268011527,,,0
+Andhra Pradesh,K.V.Rangareddy,Low Enrolment,Healthy lifecycle engagement,21.25,,,0
+Andhra Pradesh,Kakinada,Low Enrolment,Healthy lifecycle engagement,168.0,312.8333333333333,1453.25,0
+Andhra Pradesh,Karim Nagar,Low Enrolment,Healthy lifecycle engagement,81.66666666666667,,,0
+Andhra Pradesh,Karimnagar,Low Enrolment,Healthy lifecycle engagement,61.8125,,,0
+Andhra Pradesh,Khammam,Low Enrolment,Healthy lifecycle engagement,85.408,,,0
+Andhra Pradesh,Krishna,Medium Enrolment,Healthy lifecycle engagement,589.09,4850.642857142857,4661.071428571428,0
+Andhra Pradesh,Kurnool,High Enrolment,Healthy lifecycle engagement,638.7060702875399,10409.625,14033.125,0
+Andhra Pradesh,Mahabub Nagar,Medium Enrolment,Mixed or transitional pattern,3.2974683544303796,,,1
+Andhra Pradesh,Mahbubnagar,Low Enrolment,Healthy lifecycle engagement,32.149253731343286,,,0
+Andhra Pradesh,Medak,Low Enrolment,Healthy lifecycle engagement,52.54430379746835,,,0
+Andhra Pradesh,N. T. R,Low Enrolment,Healthy lifecycle engagement,148.6,332.2352941176471,1435.5294117647059,0
+Andhra Pradesh,Nalgonda,Low Enrolment,Healthy lifecycle engagement,40.229166666666664,,,0
+Andhra Pradesh,Nandyal,Low Enrolment,Healthy lifecycle engagement,361.0,1134.3333333333333,5979.333333333333,0
+Andhra Pradesh,Nellore,Medium Enrolment,Healthy lifecycle engagement,296.32462686567163,46735.0,36051.0,0
+Andhra Pradesh,Nizamabad,Low Enrolment,Healthy lifecycle engagement,72.90322580645162,,,0
+Andhra Pradesh,Palnadu,Low Enrolment,Healthy lifecycle engagement,144.66666666666666,333.4,1640.0,0
+Andhra Pradesh,Parvathipuram Manyam,Low Enrolment,Healthy lifecycle engagement,326.6923076923077,4419.0,5081.0,0
+Andhra Pradesh,Prakasam,High Enrolment,Healthy lifecycle engagement,210.92022263450835,1157.1176470588234,1318.4313725490197,0
+Andhra Pradesh,Rangareddi,Medium Enrolment,Healthy lifecycle engagement,65.35862068965517,,,0
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Medium Enrolment,"Child engagement strong, adult drop-off",21.30593607305936,22.568,99.6,1
+Andhra Pradesh,Sri Sathya Sai,Low Enrolment,Healthy lifecycle engagement,406.54545454545456,1203.3333333333333,4107.0,0
+Andhra Pradesh,Srikakulam,Medium Enrolment,Healthy lifecycle engagement,2392.720930232558,13195.75,20715.5,0
+Andhra Pradesh,Tirupati,Low Enrolment,Healthy lifecycle engagement,23.971264367816094,59.646153846153844,319.7846153846154,0
+Andhra Pradesh,Visakhapatnam,Medium Enrolment,Healthy lifecycle engagement,999.2901234567901,11768.875,12174.125,0
+Andhra Pradesh,Vizianagaram,Medium Enrolment,Healthy lifecycle engagement,1599.686274509804,45328.0,46549.0,0
+Andhra Pradesh,Warangal,Low Enrolment,Healthy lifecycle engagement,123.625,,,0
+Andhra Pradesh,West Godavari,Medium Enrolment,Healthy lifecycle engagement,1125.8061224489795,16074.0,19528.75,0
+Andhra Pradesh,Y. S. R,Low Enrolment,Healthy lifecycle engagement,162.95833333333334,233.58333333333334,1498.0,0
+Arunachal Pradesh,Anjaw,Low Enrolment,Healthy lifecycle engagement,180.66666666666666,,,0
+Arunachal Pradesh,Changlang,Low Enrolment,Healthy lifecycle engagement,35.91269841269841,738.6666666666666,1148.6666666666667,0
+Arunachal Pradesh,Dibang Valley,Low Enrolment,Healthy lifecycle engagement,212.0,,,0
+Arunachal Pradesh,East Kameng,Low Enrolment,Healthy lifecycle engagement,75.70370370370371,1277.0,613.0,0
+Arunachal Pradesh,East Siang,Low Enrolment,Healthy lifecycle engagement,60.03846153846154,,,0
+Arunachal Pradesh,Kamle,Low Enrolment,"Low enrolment, weak engagement",3.1333333333333333,,,1
+Arunachal Pradesh,Kra Daadi,Low Enrolment,Healthy lifecycle engagement,42.714285714285715,,,0
+Arunachal Pradesh,Kurung Kumey,Low Enrolment,Healthy lifecycle engagement,61.333333333333336,,,0
+Arunachal Pradesh,Leparada,Low Enrolment,Healthy lifecycle engagement,15.0,,,0
+Arunachal Pradesh,Lohit,Low Enrolment,Healthy lifecycle engagement,56.69565217391305,,,0
+Arunachal Pradesh,Longding,Medium Enrolment,Mixed or transitional pattern,2.332706766917293,23.27027027027027,21.594594594594593,3
+Arunachal Pradesh,Lower Dibang Valley,Low Enrolment,Healthy lifecycle engagement,43.78947368421053,,,0
+Arunachal Pradesh,Lower Siang,Low Enrolment,Healthy lifecycle engagement,23.0,,,0
+Arunachal Pradesh,Lower Subansiri,Low Enrolment,Healthy lifecycle engagement,50.90909090909091,,,0
+Arunachal Pradesh,Namsai,Low Enrolment,Healthy lifecycle engagement,134.6818181818182,,,0
+Arunachal Pradesh,Papum Pare,Low Enrolment,Healthy lifecycle engagement,45.743589743589745,,,0
+Arunachal Pradesh,Shi-yomi,Low Enrolment,Healthy lifecycle engagement,14.7,,,0
+Arunachal Pradesh,Siang,Low Enrolment,Healthy lifecycle engagement,51.666666666666664,,,0
+Arunachal Pradesh,Tawang,Low Enrolment,Healthy lifecycle engagement,111.3,,,0
+Arunachal Pradesh,Tirap,Low Enrolment,Healthy lifecycle engagement,47.266666666666666,,,0
+Arunachal Pradesh,Upper Siang,Low Enrolment,Healthy lifecycle engagement,104.875,,,0
+Arunachal Pradesh,Upper Subansiri,Low Enrolment,Healthy lifecycle engagement,102.6842105263158,748.0,412.0,0
+Arunachal Pradesh,West Kameng,Low Enrolment,Healthy lifecycle engagement,34.868852459016395,232.58333333333334,58.25,0
+Arunachal Pradesh,West Siang,Low Enrolment,Healthy lifecycle engagement,70.97222222222223,,,0
+Assam,Bajali,Low Enrolment,"Low enrolment, weak engagement",1.3333333333333333,4.5,193.0,2
+Assam,Baksa,Medium Enrolment,"Child engagement strong, adult drop-off",12.142312579415503,13.34909090909091,34.269090909090906,2
+Assam,Barpeta,High Enrolment,"High enrolment, weak engagement",22.710550887021476,37.18410041841004,67.90167364016736,1
+Assam,Biswanath,Medium Enrolment,Healthy lifecycle engagement,19.09961685823755,57.333333333333336,164.77777777777777,0
+Assam,Bongaigaon,Medium Enrolment,Healthy lifecycle engagement,52.326470588235296,67.25,225.9051724137931,0
+Assam,Cachar,High Enrolment,"High enrolment, weak engagement",10.00473036896878,15.570119156736938,25.60403299725023,2
+Assam,Charaideo,Medium Enrolment,"Child engagement strong, adult drop-off",28.3109756097561,9.040229885057471,30.14367816091954,2
+Assam,Chirang,Medium Enrolment,"Child engagement strong, adult drop-off",18.618403247631935,23.75862068965517,26.96551724137931,2
+Assam,Darrang,High Enrolment,"High enrolment, weak engagement",13.075531914893617,7.836506159014558,15.669652855543113,2
+Assam,Dhemaji,High Enrolment,"High enrolment, weak engagement",6.97877179681577,6.12396694214876,13.835891381345927,2
+Assam,Dhubri,High Enrolment,Healthy lifecycle engagement,15.99754058042302,87.92857142857143,311.12142857142857,0
+Assam,Dibrugarh,High Enrolment,"High enrolment, weak engagement",10.625212947189096,8.619765494137354,11.364321608040202,2
+Assam,Dima Hasao,Low Enrolment,"Low enrolment, weak engagement",0.05747126436781609,0.2916666666666667,5.708333333333333,3
+Assam,Goalpara,High Enrolment,"High enrolment, weak engagement",7.342964824120603,10.012102874432678,35.239031770045386,2
+Assam,Golaghat,High Enrolment,"High enrolment, weak engagement",2.678336325553561,3.450314465408805,10.123899371069182,3
+Assam,Hailakandi,High Enrolment,"High enrolment, weak engagement",13.344322344322345,28.012738853503183,60.05095541401274,1
+Assam,Hojai,High Enrolment,Healthy lifecycle engagement,11.224242424242425,67.94029850746269,103.73880597014926,0
+Assam,Jorhat,High Enrolment,"High enrolment, weak engagement",10.120596205962059,5.827956989247312,16.28110599078341,2
+Assam,Kamrup,High Enrolment,"High enrolment, weak engagement",10.129263157894737,12.122116689280869,30.89009497964722,2
+Assam,Kamrup Metro,High Enrolment,"High enrolment, weak engagement",9.212145110410095,15.399361022364218,22.856230031948883,2
+Assam,Karbi Anglong,High Enrolment,"High enrolment, weak engagement",5.945580371185907,11.982826948480845,18.033025099075296,3
+Assam,Karimganj,High Enrolment,"High enrolment, weak engagement",5.369287634408602,12.91304347826087,31.95130434782609,3
+Assam,Kokrajhar,High Enrolment,"High enrolment, weak engagement",15.49949849548646,23.38245614035088,41.62456140350877,1
+Assam,Lakhimpur,High Enrolment,"High enrolment, weak engagement",11.104477611940299,16.091476091476093,39.74636174636175,1
+Assam,Majuli,Low Enrolment,Healthy lifecycle engagement,18.81,74.81818181818181,136.63636363636363,0
+Assam,Marigaon,High Enrolment,"High enrolment, weak engagement",7.590775269872424,20.286666666666665,50.44,1
+Assam,Nagaon,High Enrolment,Healthy lifecycle engagement,15.688128772635816,196.65145228215766,206.448132780083,0
+Assam,Nalbari,Medium Enrolment,"Child engagement strong, adult drop-off",25.08515283842795,21.924137931034483,76.55862068965517,1
+Assam,North Cachar Hills,Medium Enrolment,"Child engagement strong, adult drop-off",6.390845070422535,8.035714285714286,14.428571428571429,2
+Assam,Sibsagar,Medium Enrolment,"Child engagement strong, adult drop-off",23.423791821561338,4.995584988962473,13.066225165562914,2
+Assam,Sonitpur,High Enrolment,"High enrolment, weak engagement",8.894352159468438,28.39455782312925,78.52380952380952,1
+Assam,South Salmara Mankachar,Medium Enrolment,"Child engagement strong, adult drop-off",9.83732057416268,36.8125,438.90625,1
+Assam,Sribhumi,Low Enrolment,"Low enrolment, weak engagement",1.1333333333333333,,,1
+Assam,Tamulpur District,Low Enrolment,"Low enrolment, weak engagement",0.4666666666666667,,,1
+Assam,Tinsukia,High Enrolment,"High enrolment, weak engagement",5.282390269698572,5.257761053621825,16.16745061147695,3
+Assam,Udalguri,High Enrolment,"High enrolment, weak engagement",13.697164948453608,11.1010101010101,21.452525252525252,2
+Assam,West Karbi Anglong,Medium Enrolment,Mixed or transitional pattern,0.858902575587906,3.3536585365853657,1.8048780487804879,3
+Bihar,Araria,High Enrolment,Healthy lifecycle engagement,26.623219680621492,1023.060606060606,1327.2272727272727,0
+Bihar,Arwal,Medium Enrolment,Healthy lifecycle engagement,7.026785714285714,670.1739130434783,660.3913043478261,0
+Bihar,Aurangabad,High Enrolment,Healthy lifecycle engagement,15.323859087269815,6730.333333333333,9630.333333333334,0
+Bihar,Aurangabad(BH),Low Enrolment,"Low enrolment, weak engagement",0.0,,,1
+Bihar,Aurangabad(bh),Low Enrolment,"Low enrolment, weak engagement",1.0,,,1
+Bihar,Banka,High Enrolment,Healthy lifecycle engagement,19.395709721588315,779.7254901960785,1111.235294117647,0
+Bihar,Begusarai,High Enrolment,Healthy lifecycle engagement,35.4535487593768,2374.769230769231,2766.1153846153848,0
+Bihar,Bhabua,Low Enrolment,"Low enrolment, weak engagement",0.1111111111111111,,,1
+Bihar,Bhagalpur,High Enrolment,Healthy lifecycle engagement,9.329164124466137,205.0299003322259,291.0598006644518,0
+Bihar,Bhojpur,High Enrolment,Healthy lifecycle engagement,9.384615384615385,1392.235294117647,2441.970588235294,0
+Bihar,Buxar,Medium Enrolment,Healthy lifecycle engagement,15.430503380916605,1851.0714285714287,2781.6428571428573,0
+Bihar,Darbhanga,High Enrolment,Healthy lifecycle engagement,38.11116504854369,3645.3076923076924,3262.346153846154,0
+Bihar,East Champaran,High Enrolment,Healthy lifecycle engagement,8.235007115267331,192.2741935483871,266.7318548387097,0
+Bihar,Gaya,High Enrolment,Healthy lifecycle engagement,6.5671340929009645,316.9503816793893,418.4618320610687,0
+Bihar,Gopalganj,High Enrolment,Healthy lifecycle engagement,7.256017505470459,319.53472222222223,391.9166666666667,0
+Bihar,Jamui,High Enrolment,Healthy lifecycle engagement,13.544440312383786,344.23809523809524,444.48809523809524,0
+Bihar,Jehanabad,Medium Enrolment,Healthy lifecycle engagement,8.632760898282696,238.22972972972974,350.68918918918916,0
+Bihar,Kaimur (Bhabua),High Enrolment,Healthy lifecycle engagement,11.336458708979444,549.7213114754098,573.016393442623,0
+Bihar,Katihar,High Enrolment,Healthy lifecycle engagement,38.65825151940159,1303.3287671232877,1413.5068493150684,0
+Bihar,Khagaria,Medium Enrolment,Healthy lifecycle engagement,25.211067193675888,1163.5862068965516,1391.344827586207,0
+Bihar,Kishanganj,High Enrolment,Healthy lifecycle engagement,72.64471403812826,7514.222222222223,10175.777777777777,0
+Bihar,Lakhisarai,High Enrolment,Healthy lifecycle engagement,8.795169530887135,470.95652173913044,574.0434782608696,0
+Bihar,Madhepura,High Enrolment,Healthy lifecycle engagement,30.489122807017544,5917.666666666667,5491.0,0
+Bihar,Madhubani,High Enrolment,Healthy lifecycle engagement,13.45863230341192,191.55615942028984,188.9746376811594,0
+Bihar,Monghyr,Low Enrolment,"Low enrolment, weak engagement",0.14285714285714285,,,1
+Bihar,Munger,High Enrolment,Healthy lifecycle engagement,9.906113537117903,325.3013698630137,441.6986301369863,0
+Bihar,Muzaffarpur,High Enrolment,Healthy lifecycle engagement,9.154973459496885,224.11483253588517,270.1794258373206,0
+Bihar,Nalanda,High Enrolment,Healthy lifecycle engagement,7.773936170212766,601.6521739130435,976.195652173913,0
+Bihar,Nawada,High Enrolment,"High enrolment, weak engagement",5.414513740332401,237.33333333333334,278.4404761904762,1
+Bihar,Pashchim Champaran,High Enrolment,"High enrolment, weak engagement",0.002259461495010356,0.33515482695810567,0.8907103825136612,3
+Bihar,Patna,High Enrolment,Healthy lifecycle engagement,8.811109881597876,189.0891089108911,254.86336633663367,0
+Bihar,Purba Champaran,Low Enrolment,"Low enrolment, weak engagement",0.375,,,1
+Bihar,Purnea,Low Enrolment,Healthy lifecycle engagement,21.166666666666668,,,0
+Bihar,Purnia,High Enrolment,Healthy lifecycle engagement,25.333333333333332,758.0751879699249,560.9248120300751,0
+Bihar,Rohtas,High Enrolment,Healthy lifecycle engagement,24.811672683513837,5548.222222222223,6745.666666666667,0
+Bihar,Saharsa,High Enrolment,Healthy lifecycle engagement,11.038713705900719,491.85714285714283,371.37301587301585,0
+Bihar,Samastipur,High Enrolment,Healthy lifecycle engagement,28.58351254480287,1925.108695652174,2513.0434782608695,0
+Bihar,Samstipur,Low Enrolment,"Low enrolment, weak engagement",0.5625,,,1
+Bihar,Saran,High Enrolment,Healthy lifecycle engagement,7.531107515811149,550.528,753.816,0
+Bihar,Sheikhpura,Medium Enrolment,Healthy lifecycle engagement,22.780405405405407,1891.6,1457.6,0
+Bihar,Sheikpura,Low Enrolment,"Low enrolment, weak engagement",0.5,,,1
+Bihar,Sheohar,Medium Enrolment,Healthy lifecycle engagement,30.325,2689.8333333333335,2888.5,0
+Bihar,Sitamarhi,High Enrolment,"High enrolment, weak engagement",5.048890454385347,34.6671012603216,42.69274228596262,2
+Bihar,Siwan,High Enrolment,Healthy lifecycle engagement,11.534427966101696,782.8378378378378,875.2297297297297,0
+Bihar,Supaul,High Enrolment,Healthy lifecycle engagement,27.483154121863798,1042.6078431372548,1256.6078431372548,0
+Bihar,Vaishali,High Enrolment,Healthy lifecycle engagement,17.869253731343285,5263.133333333333,5851.666666666667,0
+Bihar,West Champaran,High Enrolment,Healthy lifecycle engagement,5.987022974142074,156.25423728813558,262.1906779661017,0
+Chandigarh,Chandigarh,Medium Enrolment,Healthy lifecycle engagement,583.7012987012987,1191.0555555555557,3118.6666666666665,0
+Chhattisgarh,Balod,Medium Enrolment,Healthy lifecycle engagement,680.7037037037037,45068.0,39395.0,0
+Chhattisgarh,Baloda Bazar,Medium Enrolment,Healthy lifecycle engagement,180.19306930693068,3654.6,3663.65,0
+Chhattisgarh,Balrampur,High Enrolment,Healthy lifecycle engagement,13.176216216216217,396.1940298507463,654.2985074626865,0
+Chhattisgarh,Bastar,Medium Enrolment,Healthy lifecycle engagement,38.37938144329897,13127.5,10733.75,0
+Chhattisgarh,Bemetara,Medium Enrolment,Healthy lifecycle engagement,225.58490566037736,21543.333333333332,12505.333333333334,0
+Chhattisgarh,Bijapur,High Enrolment,"High enrolment, weak engagement",7.071490845684394,14.738121546961326,7.816574585635359,2
+Chhattisgarh,Bilaspur,High Enrolment,Healthy lifecycle engagement,59.47652916073969,8075.153846153846,7824.0,0
+Chhattisgarh,Dakshin Bastar Dantewada,Low Enrolment,Healthy lifecycle engagement,126.26086956521739,2220.4285714285716,321.57142857142856,0
+Chhattisgarh,Dantewada,Low Enrolment,Healthy lifecycle engagement,61.44444444444444,,,0
+Chhattisgarh,Dhamtari,Medium Enrolment,Healthy lifecycle engagement,819.5714285714286,52935.0,29488.0,0
+Chhattisgarh,Durg,Medium Enrolment,Healthy lifecycle engagement,200.85977859778598,2186.475,1170.0,0
+Chhattisgarh,Gariyaband,Low Enrolment,Healthy lifecycle engagement,151.73611111111111,,,0
+Chhattisgarh,Gaurela-pendra-marwahi,Low Enrolment,Healthy lifecycle engagement,94.2,,,0
+Chhattisgarh,Janjgir Champa,Low Enrolment,Healthy lifecycle engagement,12.0,,,0
+Chhattisgarh,Janjgir-champa,Medium Enrolment,Healthy lifecycle engagement,156.7536231884058,103208.0,72498.0,0
+Chhattisgarh,Jashpur,Medium Enrolment,Healthy lifecycle engagement,72.93559322033899,,,0
+Chhattisgarh,Kabeerdham,Low Enrolment,Healthy lifecycle engagement,434.4,4434.0,6191.666666666667,0
+Chhattisgarh,Kanker,Low Enrolment,Healthy lifecycle engagement,148.91954022988506,27283.0,14343.0,0
+Chhattisgarh,Kawardha,Medium Enrolment,Healthy lifecycle engagement,193.05882352941177,,,0
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,Low Enrolment,Healthy lifecycle engagement,6.705882352941177,,,0
+Chhattisgarh,Kondagaon,Medium Enrolment,Healthy lifecycle engagement,40.78445229681979,32543.0,43422.0,0
+Chhattisgarh,Korba,Medium Enrolment,Healthy lifecycle engagement,151.1304347826087,18436.0,19623.333333333332,0
+Chhattisgarh,Koriya,Medium Enrolment,Healthy lifecycle engagement,73.76704545454545,34243.0,18010.0,0
+Chhattisgarh,Mahasamund,Medium Enrolment,Healthy lifecycle engagement,118.97674418604652,29537.0,52702.5,0
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,Low Enrolment,"Low enrolment, weak engagement",0.6388888888888888,,,1
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,Low Enrolment,Healthy lifecycle engagement,12.0,,,0
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,Low Enrolment,Healthy lifecycle engagement,35.24,1652.5,5031.0,0
+Chhattisgarh,Mungeli,Medium Enrolment,Healthy lifecycle engagement,151.7704918032787,21224.0,25228.5,0
+Chhattisgarh,Narayanpur,Low Enrolment,Healthy lifecycle engagement,57.27368421052632,,,0
+Chhattisgarh,Raigarh,High Enrolment,Healthy lifecycle engagement,85.14563106796116,4261.875,1996.5,0
+Chhattisgarh,Raipur,High Enrolment,Healthy lifecycle engagement,124.55016181229773,8289.846153846154,7258.461538461538,0
+Chhattisgarh,Rajnandgaon,Medium Enrolment,Healthy lifecycle engagement,270.43283582089555,42877.0,54266.5,0
+Chhattisgarh,Sakti,Low Enrolment,Healthy lifecycle engagement,17.766666666666666,1521.0,2233.0,0
+Chhattisgarh,Sarangarh-Bilaigarh,Low Enrolment,Healthy lifecycle engagement,6.0,518.0,3338.0,0
+Chhattisgarh,Sukma,Medium Enrolment,Healthy lifecycle engagement,23.45813953488372,119.45794392523365,53.06542056074766,0
+Chhattisgarh,Surajpur,Medium Enrolment,Healthy lifecycle engagement,72.475935828877,12556.666666666666,8018.333333333333,0
+Chhattisgarh,Surguja,Medium Enrolment,Healthy lifecycle engagement,79.73245614035088,42350.0,75702.0,0
+Chhattisgarh,Uttar Bastar Kanker,Low Enrolment,Healthy lifecycle engagement,118.0,,,0
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,Low Enrolment,Healthy lifecycle engagement,27.5,,,0
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,Low Enrolment,Healthy lifecycle engagement,376.0,6720.5,1508.5,0
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,Low Enrolment,Healthy lifecycle engagement,69.85714285714286,655.5,360.5,0
+Dadra and Nagar Haveli and Daman and Diu,Daman,Low Enrolment,Healthy lifecycle engagement,90.5,291.0,988.0,0
+Dadra and Nagar Haveli and Daman and Diu,Diu,Low Enrolment,"Low enrolment, weak engagement",2.0,5.5,108.0,2
+Daman and Diu,Daman,Low Enrolment,Healthy lifecycle engagement,374.0,,,0
+Daman and Diu,Diu,Low Enrolment,Healthy lifecycle engagement,1404.0,,,0
+Delhi,Central Delhi,High Enrolment,Healthy lifecycle engagement,28.55152394775036,217.61666666666667,301.625,0
+Delhi,East Delhi,High Enrolment,Healthy lifecycle engagement,25.623556581986143,326.8360655737705,767.8633879781421,0
+Delhi,Najafgarh,Low Enrolment,Healthy lifecycle engagement,14.333333333333334,,,0
+Delhi,New Delhi,Medium Enrolment,Mixed or transitional pattern,4.370689655172414,8.339712918660288,12.090909090909092,3
+Delhi,North Delhi,Medium Enrolment,Healthy lifecycle engagement,26.452229299363058,511.98275862068965,1161.1379310344828,0
+Delhi,North East,Medium Enrolment,Healthy lifecycle engagement,14.764705882352942,39058.0,6851.0,0
+Delhi,North East Delhi,High Enrolment,Healthy lifecycle engagement,23.51491424310216,1230.0666666666666,2183.6222222222223,0
+Delhi,North West Delhi,High Enrolment,Healthy lifecycle engagement,61.014301430143014,752.8063063063063,1047.6981981981983,0
+Delhi,Shahdara,Medium Enrolment,Mixed or transitional pattern,5.433566433566433,88.01886792452831,378.60377358490564,1
+Delhi,South Delhi,High Enrolment,Healthy lifecycle engagement,55.35738597685501,372.3400673400673,538.6565656565657,0
+Delhi,South East Delhi,Low Enrolment,Healthy lifecycle engagement,43.4,,,0
+Delhi,South West Delhi,High Enrolment,Healthy lifecycle engagement,48.23318777292577,267.2090163934426,504.9549180327869,0
+Delhi,West Delhi,High Enrolment,Healthy lifecycle engagement,17.409907300115876,101.86067415730336,198.9303370786517,0
+Goa,North Goa,Low Enrolment,Healthy lifecycle engagement,204.84615384615384,487.5151515151515,304.24242424242425,0
+Goa,South Goa,Low Enrolment,Healthy lifecycle engagement,254.0204081632653,575.0909090909091,377.6363636363636,0
+Gujarat,Ahmadabad,High Enrolment,"High enrolment, weak engagement",0.3350300786672837,45.895833333333336,14.025,2
+Gujarat,Ahmedabad,High Enrolment,Healthy lifecycle engagement,55.758882235528944,799.6124031007752,657.3294573643411,0
+Gujarat,Amreli,Medium Enrolment,Healthy lifecycle engagement,94.48064516129033,194.32450331125827,105.08609271523179,0
+Gujarat,Anand,High Enrolment,Healthy lifecycle engagement,94.94736842105263,181.7070707070707,76.58249158249158,0
+Gujarat,Arvalli,Medium Enrolment,Healthy lifecycle engagement,78.14146341463415,120.61643835616438,49.57534246575342,0
+Gujarat,Banas Kantha,High Enrolment,"High enrolment, weak engagement",0.005100463678516229,0.4925864909390445,0.29983525535420097,3
+Gujarat,Banaskantha,High Enrolment,Mixed or transitional pattern,18.463870177587264,48.33232628398792,31.42069486404834,1
+Gujarat,Bharuch,Medium Enrolment,Healthy lifecycle engagement,131.3723849372385,505.1875,482.78125,0
+Gujarat,Bhavnagar,High Enrolment,Healthy lifecycle engagement,68.71428571428571,230.59717314487634,118.63957597173145,0
+Gujarat,Botad,Medium Enrolment,Healthy lifecycle engagement,23.37270341207349,53.145833333333336,39.96875,0
+Gujarat,Chhotaudepur,High Enrolment,"High enrolment, weak engagement",14.333333333333334,25.635658914728683,9.823643410852712,2
+Gujarat,Dahod,High Enrolment,Mixed or transitional pattern,21.200321156162182,41.13501742160279,18.524390243902438,1
+Gujarat,Devbhumi Dwarka,Medium Enrolment,Mixed or transitional pattern,48.78947368421053,42.77707006369427,22.121019108280255,1
+Gujarat,Dohad,High Enrolment,"High enrolment, weak engagement",0.277232013868824,18.089030206677265,4.588235294117647,3
+Gujarat,Gandhinagar,High Enrolment,Healthy lifecycle engagement,59.62903225806452,70.55597722960152,84.38519924098672,0
+Gujarat,Gir Somnath,High Enrolment,Mixed or transitional pattern,24.656498673740053,38.358620689655176,20.520689655172415,1
+Gujarat,Jamnagar,High Enrolment,Healthy lifecycle engagement,71.72164948453609,178.703125,138.11979166666666,0
+Gujarat,Junagadh,Medium Enrolment,Healthy lifecycle engagement,118.85652173913043,844.8695652173913,306.3188405797101,0
+Gujarat,Kachchh,High Enrolment,Healthy lifecycle engagement,34.37683715461493,150.453125,129.83125,0
+Gujarat,Kheda,High Enrolment,Healthy lifecycle engagement,69.6461038961039,174.36697247706422,94.67278287461774,0
+Gujarat,Mahesana,High Enrolment,Healthy lifecycle engagement,69.56439393939394,271.73595505617976,169.95505617977528,0
+Gujarat,Mahisagar,Medium Enrolment,Healthy lifecycle engagement,53.329787234042556,128.45882352941177,46.28235294117647,0
+Gujarat,Morbi,High Enrolment,"High enrolment, weak engagement",11.785804816223067,17.73767258382643,25.384615384615383,2
+Gujarat,Narmada,Low Enrolment,Healthy lifecycle engagement,420.875,1733.8333333333333,719.8333333333334,0
+Gujarat,Navsari,Medium Enrolment,Healthy lifecycle engagement,172.89565217391305,240.26666666666668,209.73333333333332,0
+Gujarat,Panch Mahals,Medium Enrolment,Mixed or transitional pattern,0.02981651376146789,1.56,1.99,3
+Gujarat,Panchmahals,High Enrolment,Healthy lifecycle engagement,58.42830540037244,188.71180555555554,61.670138888888886,0
+Gujarat,Patan,High Enrolment,Mixed or transitional pattern,17.212103746397695,57.479789103690685,28.729349736379614,1
+Gujarat,Porbandar,Medium Enrolment,Healthy lifecycle engagement,51.00813008130081,106.66666666666667,56.369565217391305,0
+Gujarat,Rajkot,High Enrolment,Healthy lifecycle engagement,24.809282088469907,101.96791443850267,129.69786096256684,0
+Gujarat,Sabar Kantha,Medium Enrolment,Mixed or transitional pattern,0.024534686971235193,1.7770700636942676,1.4267515923566878,3
+Gujarat,Sabarkantha,Medium Enrolment,Healthy lifecycle engagement,52.07993474714519,206.05581395348838,109.55813953488372,0
+Gujarat,Surat,High Enrolment,Healthy lifecycle engagement,26.76431924882629,245.72064777327935,506.6275303643725,0
+Gujarat,Surendra Nagar,High Enrolment,Healthy lifecycle engagement,51.57124183006536,272.4472049689441,145.03726708074535,0
+Gujarat,Surendranagar,Medium Enrolment,Mixed or transitional pattern,0.031141868512110725,3.358974358974359,5.0,3
+Gujarat,Tapi,Medium Enrolment,Healthy lifecycle engagement,176.64935064935065,187.77358490566039,57.79245283018868,0
+Gujarat,The Dangs,Medium Enrolment,Healthy lifecycle engagement,91.432,212.9047619047619,52.3968253968254,0
+Gujarat,Vadodara,High Enrolment,Healthy lifecycle engagement,47.04106280193237,282.1876606683805,148.07197943444731,0
+Gujarat,Valsad,High Enrolment,Healthy lifecycle engagement,37.32766439909297,206.3901098901099,156.92307692307693,0
+Haryana,Ambala,Medium Enrolment,Healthy lifecycle engagement,371.5,2759.5714285714284,1462.642857142857,0
+Haryana,Bhiwani,Medium Enrolment,Healthy lifecycle engagement,661.9555555555555,24185.5,10386.0,0
+Haryana,Charkhi Dadri,Low Enrolment,Healthy lifecycle engagement,572.25,,,0
+Haryana,Faridabad,High Enrolment,Healthy lifecycle engagement,19.115611814345993,181.58608058608058,414.8205128205128,0
+Haryana,Fatehabad,Medium Enrolment,Healthy lifecycle engagement,679.2647058823529,5268.0,4989.166666666667,0
+Haryana,Gurgaon,High Enrolment,Healthy lifecycle engagement,41.494488188976376,361.1111111111111,1005.1604938271605,0
+Haryana,Hisar,Medium Enrolment,Healthy lifecycle engagement,309.3529411764706,4241.833333333333,3580.8333333333335,0
+Haryana,Jhajjar,Medium Enrolment,Healthy lifecycle engagement,624.6451612903226,12917.0,10562.0,0
+Haryana,Jind,Medium Enrolment,Healthy lifecycle engagement,858.1290322580645,,,0
+Haryana,Kaithal,Medium Enrolment,Healthy lifecycle engagement,674.829268292683,3820.3,2814.8,0
+Haryana,Karnal,Medium Enrolment,Healthy lifecycle engagement,389.40625,50768.0,33783.0,0
+Haryana,Kurukshetra,Medium Enrolment,Healthy lifecycle engagement,531.5142857142857,3504.090909090909,1758.909090909091,0
+Haryana,Mahendragarh,Medium Enrolment,Healthy lifecycle engagement,290.58,22538.0,18917.0,0
+Haryana,Mewat,High Enrolment,Healthy lifecycle engagement,95.3286219081272,1555.2666666666667,3057.733333333333,0
+Haryana,Palwal,Medium Enrolment,Healthy lifecycle engagement,228.2020202020202,11025.5,24243.0,0
+Haryana,Panchkula,Low Enrolment,Healthy lifecycle engagement,568.0,16108.0,21980.0,0
+Haryana,Panipat,High Enrolment,Healthy lifecycle engagement,67.13858695652173,1303.4333333333334,1609.7666666666667,0
+Haryana,Rewari,Medium Enrolment,Healthy lifecycle engagement,299.71875,19905.0,27683.0,0
+Haryana,Rohtak,Medium Enrolment,Healthy lifecycle engagement,202.63636363636363,776.9814814814815,307.537037037037,0
+Haryana,Sirsa,Medium Enrolment,Healthy lifecycle engagement,626.1372549019608,,,0
+Haryana,Sonipat,Medium Enrolment,Healthy lifecycle engagement,221.4793388429752,1543.3703703703704,1516.851851851852,0
+Haryana,Yamuna Nagar,Medium Enrolment,Healthy lifecycle engagement,820.90625,7482.666666666667,5940.166666666667,0
+Himachal Pradesh,Bilaspur,Low Enrolment,Healthy lifecycle engagement,1347.8,,,0
+Himachal Pradesh,Chamba,Low Enrolment,Healthy lifecycle engagement,1111.9,3705.0,2345.0,0
+Himachal Pradesh,Hamirpur,Low Enrolment,Healthy lifecycle engagement,1560.4,,,0
+Himachal Pradesh,Kangra,Medium Enrolment,Healthy lifecycle engagement,1321.2608695652175,37463.0,18657.0,0
+Himachal Pradesh,Kinnaur,Low Enrolment,Healthy lifecycle engagement,168.0,942.5,250.0,0
+Himachal Pradesh,Kullu,Low Enrolment,Healthy lifecycle engagement,159.33333333333334,162.33333333333334,85.43137254901961,0
+Himachal Pradesh,Mandi,Medium Enrolment,Healthy lifecycle engagement,1700.1666666666667,9506.333333333334,2782.3333333333335,0
+Himachal Pradesh,Shimla,Low Enrolment,Healthy lifecycle engagement,418.625,4136.75,1960.0,0
+Himachal Pradesh,Sirmaur,Low Enrolment,Healthy lifecycle engagement,928.6153846153846,4686.666666666667,4082.3333333333335,0
+Himachal Pradesh,Solan,Low Enrolment,Healthy lifecycle engagement,488.625,,,0
+Himachal Pradesh,Una,Low Enrolment,Healthy lifecycle engagement,1288.25,,,0
+Jammu & Kashmir,Anantnag,Low Enrolment,"Low enrolment, weak engagement",2.0,,,1
+Jammu & Kashmir,Baramula,Low Enrolment,Healthy lifecycle engagement,7.5,,,0
+Jammu & Kashmir,Jammu,Low Enrolment,"Low enrolment, weak engagement",2.6,,,1
+Jammu & Kashmir,Rajauri,Low Enrolment,"Low enrolment, weak engagement",0.0,,,1
+Jammu & Kashmir,Srinagar,Low Enrolment,"Low enrolment, weak engagement",0.0,,,1
+Jammu and Kashmir,Anantnag,Medium Enrolment,Healthy lifecycle engagement,168.97894736842105,692.5416666666666,899.5416666666666,0
+Jammu and Kashmir,Badgam,Medium Enrolment,Healthy lifecycle engagement,53.57142857142857,,,0
+Jammu and Kashmir,Bandipore,Medium Enrolment,Healthy lifecycle engagement,74.91919191919192,407.75,501.95,0
+Jammu and Kashmir,Baramula,Medium Enrolment,Healthy lifecycle engagement,96.44554455445545,523.6415094339623,431.45283018867923,0
+Jammu and Kashmir,Budgam,Low Enrolment,Healthy lifecycle engagement,1043.2307692307693,665.8333333333334,1888.3333333333333,0
+Jammu and Kashmir,Doda,Medium Enrolment,Healthy lifecycle engagement,64.17647058823529,1946.5714285714287,887.2857142857143,0
+Jammu and Kashmir,Ganderbal,Low Enrolment,Healthy lifecycle engagement,257.4117647058824,5474.0,4513.0,0
+Jammu and Kashmir,Jammu,Medium Enrolment,Healthy lifecycle engagement,112.1842105263158,2704.5,1265.8125,0
+Jammu and Kashmir,Kargil,Low Enrolment,Healthy lifecycle engagement,25.81081081081081,,,0
+Jammu and Kashmir,Kathua,Medium Enrolment,Healthy lifecycle engagement,212.8846153846154,14108.0,12621.0,0
+Jammu and Kashmir,Kishtwar,Low Enrolment,Healthy lifecycle engagement,201.0,8258.0,3516.0,0
+Jammu and Kashmir,Kulgam,Low Enrolment,Healthy lifecycle engagement,142.6216216216216,2004.0,1589.0,0
+Jammu and Kashmir,Kupwara,Medium Enrolment,Healthy lifecycle engagement,113.20121951219512,646.84375,942.34375,0
+Jammu and Kashmir,Leh,Low Enrolment,Healthy lifecycle engagement,102.75,707.0,655.0,0
+Jammu and Kashmir,Pulwama,Medium Enrolment,Healthy lifecycle engagement,362.8857142857143,9934.0,13548.0,0
+Jammu and Kashmir,Punch,Medium Enrolment,Healthy lifecycle engagement,82.10576923076923,1214.5714285714287,1116.142857142857,0
+Jammu and Kashmir,Rajouri,Medium Enrolment,Healthy lifecycle engagement,118.64942528735632,,,0
+Jammu and Kashmir,Ramban,Low Enrolment,Healthy lifecycle engagement,93.48387096774194,1667.0,991.5,0
+Jammu and Kashmir,Reasi,Low Enrolment,Healthy lifecycle engagement,60.01875,8991.0,4734.0,0
+Jammu and Kashmir,Samba,Low Enrolment,Healthy lifecycle engagement,366.6666666666667,1852.5,1568.5,0
+Jammu and Kashmir,Shupiyan,Low Enrolment,Healthy lifecycle engagement,213.58064516129033,,,0
+Jammu and Kashmir,Srinagar,Medium Enrolment,Healthy lifecycle engagement,250.1375,424.3150684931507,309.16438356164383,0
+Jammu and Kashmir,Udhampur,Medium Enrolment,Healthy lifecycle engagement,220.126582278481,4729.25,2664.25,0
+Jharkhand,Bokaro,Medium Enrolment,Healthy lifecycle engagement,44.25653206650831,8792.666666666666,8060.833333333333,0
+Jharkhand,Chatra,High Enrolment,Healthy lifecycle engagement,23.733870967741936,1127.1538461538462,1126.3461538461538,0
+Jharkhand,Deoghar,High Enrolment,Healthy lifecycle engagement,17.98155467720685,1149.68,1622.04,0
+Jharkhand,Dhanbad,High Enrolment,Healthy lifecycle engagement,22.862836438923395,1521.7272727272727,1374.0727272727272,0
+Jharkhand,Dumka,High Enrolment,Healthy lifecycle engagement,22.91740412979351,572.7118644067797,675.3050847457627,0
+Jharkhand,East Singhbhum,High Enrolment,Healthy lifecycle engagement,59.604513064133016,1570.6097560975609,917.9024390243902,0
+Jharkhand,Garhwa,Medium Enrolment,Healthy lifecycle engagement,58.524916943521596,8154.5,3760.5,0
+Jharkhand,Garhwa *,Low Enrolment,Healthy lifecycle engagement,19.333333333333332,,,0
+Jharkhand,Giridih,High Enrolment,Healthy lifecycle engagement,13.921421889616465,800.1833333333333,1486.8,0
+Jharkhand,Godda,Medium Enrolment,Healthy lifecycle engagement,43.21709006928406,2359.3846153846152,2714.6923076923076,0
+Jharkhand,Gumla,High Enrolment,Healthy lifecycle engagement,22.481512605042017,1158.076923076923,649.5641025641025,0
+Jharkhand,Hazaribag,Low Enrolment,Healthy lifecycle engagement,18.226666666666667,,,0
+Jharkhand,Hazaribagh,Medium Enrolment,Healthy lifecycle engagement,45.15524475524475,2040.6666666666667,2888.133333333333,0
+Jharkhand,Jamtara,Medium Enrolment,Healthy lifecycle engagement,34.82943925233645,3040.1666666666665,3450.8333333333335,0
+Jharkhand,Khunti,Medium Enrolment,Healthy lifecycle engagement,20.112852664576803,655.3142857142857,388.1142857142857,0
+Jharkhand,Kodarma,Low Enrolment,Healthy lifecycle engagement,23.844444444444445,,,0
+Jharkhand,Koderma,Medium Enrolment,Healthy lifecycle engagement,38.40862944162436,8803.5,8713.0,0
+Jharkhand,Latehar,Medium Enrolment,Healthy lifecycle engagement,49.72872340425532,17704.0,23331.0,0
+Jharkhand,Lohardaga,Medium Enrolment,Healthy lifecycle engagement,22.87109375,551.75,274.4,0
+Jharkhand,Pakaur,Low Enrolment,Healthy lifecycle engagement,20.25531914893617,,,0
+Jharkhand,Pakur,High Enrolment,Healthy lifecycle engagement,7.748764415156508,340.23809523809524,756.6190476190476,0
+Jharkhand,Palamau,Low Enrolment,Healthy lifecycle engagement,17.476190476190474,,,0
+Jharkhand,Palamu,High Enrolment,Healthy lifecycle engagement,67.05413105413105,1639.3793103448277,2706.862068965517,0
+Jharkhand,Pashchimi Singhbhum,Low Enrolment,Healthy lifecycle engagement,33.05154639175258,8904.0,5194.0,0
+Jharkhand,Purbi Singhbhum,Low Enrolment,Healthy lifecycle engagement,55.78125,,,0
+Jharkhand,Ramgarh,Medium Enrolment,Healthy lifecycle engagement,43.74242424242424,2330.285714285714,3385.714285714286,0
+Jharkhand,Ranchi,High Enrolment,Healthy lifecycle engagement,20.332942097026603,401.7649402390438,278.9681274900398,0
+Jharkhand,Sahebganj,Medium Enrolment,Healthy lifecycle engagement,29.383509108341322,3301.285714285714,5601.285714285715,0
+Jharkhand,Sahibganj,Low Enrolment,Healthy lifecycle engagement,7.375,,,0
+Jharkhand,Seraikela-Kharsawan,Medium Enrolment,Healthy lifecycle engagement,74.02727272727273,9705.0,5673.333333333333,0
+Jharkhand,Seraikela-kharsawan,Low Enrolment,Healthy lifecycle engagement,21.827272727272728,,,0
+Jharkhand,Simdega,Medium Enrolment,Healthy lifecycle engagement,89.19796954314721,2824.6153846153848,1277.076923076923,0
+Jharkhand,West Singhbhum,High Enrolment,Healthy lifecycle engagement,46.38818181818182,2320.269230769231,1277.6923076923076,0
+Karnataka,Bagalkot,Medium Enrolment,Healthy lifecycle engagement,94.16473988439306,865.7428571428571,737.2,0
+Karnataka,Bagalkot *,Low Enrolment,Healthy lifecycle engagement,29.818181818181817,,,0
+Karnataka,Ballari,Medium Enrolment,Healthy lifecycle engagement,218.94623655913978,344.6551724137931,523.2068965517242,0
+Karnataka,Bangalore,Medium Enrolment,Healthy lifecycle engagement,107.53002610966057,,,0
+Karnataka,Bangalore Rural,Medium Enrolment,Healthy lifecycle engagement,146.31313131313132,227.08823529411765,489.0882352941176,0
+Karnataka,Belagavi,High Enrolment,Healthy lifecycle engagement,165.10655737704917,401.8909090909091,517.3818181818182,0
+Karnataka,Belgaum,Medium Enrolment,Healthy lifecycle engagement,108.79937304075236,,,0
+Karnataka,Bellary,Medium Enrolment,Healthy lifecycle engagement,100.69067796610169,30755.0,14228.0,0
+Karnataka,Bengaluru,High Enrolment,Healthy lifecycle engagement,28.21038114343029,48.37321830457614,75.66841710427607,0
+Karnataka,Bengaluru Rural,High Enrolment,"High enrolment, weak engagement",0.0054869684499314125,0.00322061191626409,0.06280193236714976,3
+Karnataka,Bengaluru South,Low Enrolment,"Low enrolment, weak engagement",0.15853658536585366,52.0,1532.0,1
+Karnataka,Bidar,Medium Enrolment,Healthy lifecycle engagement,73.00746268656717,968.8235294117648,740.7941176470588,0
+Karnataka,Bijapur,Medium Enrolment,Healthy lifecycle engagement,45.46739130434783,14066.0,7847.0,0
+Karnataka,Chamarajanagar,Low Enrolment,Healthy lifecycle engagement,38.375,,,0
+Karnataka,Chamrajanagar,Medium Enrolment,Healthy lifecycle engagement,139.45348837209303,1050.6,837.8,0
+Karnataka,Chamrajnagar,Low Enrolment,Healthy lifecycle engagement,31.0,,,0
+Karnataka,Chickmagalur,Low Enrolment,Healthy lifecycle engagement,167.1818181818182,,,0
+Karnataka,Chikkaballapur,Medium Enrolment,Healthy lifecycle engagement,186.6195652173913,3327.8,4631.8,0
+Karnataka,Chikkamagaluru,Low Enrolment,Healthy lifecycle engagement,236.78125,477.7,632.7,0
+Karnataka,Chikmagalur,Low Enrolment,Healthy lifecycle engagement,30.4,,,0
+Karnataka,Chitradurga,Medium Enrolment,Healthy lifecycle engagement,244.82291666666666,1573.625,1838.8125,0
+Karnataka,Dakshina Kannada,Medium Enrolment,Healthy lifecycle engagement,167.55191256830602,1688.6842105263158,1637.578947368421,0
+Karnataka,Davanagere,Low Enrolment,Healthy lifecycle engagement,53.5,,,0
+Karnataka,Davangere,Medium Enrolment,Healthy lifecycle engagement,319.13592233009706,1578.2692307692307,738.5,0
+Karnataka,Dharwad,Medium Enrolment,Healthy lifecycle engagement,273.68548387096774,12973.666666666666,10643.666666666666,0
+Karnataka,Gadag,Medium Enrolment,Healthy lifecycle engagement,128.59863945578232,1309.1818181818182,1261.2727272727273,0
+Karnataka,Gadag *,Low Enrolment,Healthy lifecycle engagement,44.285714285714285,,,0
+Karnataka,Gulbarga,Medium Enrolment,Healthy lifecycle engagement,70.14107883817428,34026.0,11846.0,0
+Karnataka,Hasan,Low Enrolment,Healthy lifecycle engagement,117.5,,,0
+Karnataka,Hassan,Medium Enrolment,Healthy lifecycle engagement,422.3076923076923,2336.8571428571427,3520.5714285714284,0
+Karnataka,Haveri,Medium Enrolment,Healthy lifecycle engagement,271.25233644859816,1017.25,1192.642857142857,0
+Karnataka,Haveri *,Low Enrolment,Healthy lifecycle engagement,61.5,,,0
+Karnataka,Kalaburagi,Medium Enrolment,Healthy lifecycle engagement,150.30252100840337,306.19117647058823,354.4264705882353,0
+Karnataka,Kodagu,Low Enrolment,Healthy lifecycle engagement,348.65,273.962962962963,218.74074074074073,0
+Karnataka,Kolar,Medium Enrolment,Healthy lifecycle engagement,223.92857142857142,3000.0,3439.222222222222,0
+Karnataka,Koppal,Medium Enrolment,Healthy lifecycle engagement,101.49416342412451,1360.375,1575.625,0
+Karnataka,Mandya,Medium Enrolment,Healthy lifecycle engagement,532.1702127659574,2350.1666666666665,2090.9166666666665,0
+Karnataka,Mysore,Medium Enrolment,Healthy lifecycle engagement,179.6081081081081,29400.0,10435.0,0
+Karnataka,Mysuru,Medium Enrolment,Healthy lifecycle engagement,80.57792207792208,112.7,135.80588235294118,0
+Karnataka,Raichur,High Enrolment,Healthy lifecycle engagement,55.864583333333336,1036.5714285714287,659.0952380952381,0
+Karnataka,Ramanagar,Medium Enrolment,Healthy lifecycle engagement,73.13425925925925,1544.2727272727273,2101.818181818182,0
+Karnataka,Shimoga,Medium Enrolment,Healthy lifecycle engagement,113.9423076923077,,,0
+Karnataka,Shivamogga,Medium Enrolment,Healthy lifecycle engagement,214.22222222222223,471.3333333333333,687.3809523809524,0
+Karnataka,Tumakuru,Medium Enrolment,Healthy lifecycle engagement,399.0377358490566,827.1764705882352,981.9411764705883,0
+Karnataka,Tumkur,Medium Enrolment,Healthy lifecycle engagement,284.7857142857143,,,0
+Karnataka,Udupi,Medium Enrolment,Healthy lifecycle engagement,214.5205479452055,1045.8181818181818,1320.1818181818182,0
+Karnataka,Uttara Kannada,Medium Enrolment,Healthy lifecycle engagement,237.93589743589743,3966.75,4259.75,0
+Karnataka,Vijayanagara,Medium Enrolment,Healthy lifecycle engagement,56.70454545454545,566.8260869565217,364.0,0
+Karnataka,Vijayapura,Medium Enrolment,Healthy lifecycle engagement,72.8880407124682,429.20588235294116,445.20588235294116,0
+Karnataka,Yadgir,High Enrolment,Healthy lifecycle engagement,53.01803607214429,310.3835616438356,253.3972602739726,0
+Karnataka,yadgir,Low Enrolment,Healthy lifecycle engagement,11.309090909090909,,,0
+Kerala,Alappuzha,Medium Enrolment,Healthy lifecycle engagement,104.86770428015564,882.795918367347,335.0408163265306,0
+Kerala,Ernakulam,Medium Enrolment,Healthy lifecycle engagement,75.42728635682158,576.152,259.056,0
+Kerala,Idukki,Low Enrolment,Healthy lifecycle engagement,246.42424242424244,1931.25,584.5833333333334,0
+Kerala,Kannur,Medium Enrolment,Healthy lifecycle engagement,64.04126984126984,929.0166666666667,465.06666666666666,0
+Kerala,Kasaragod,Medium Enrolment,Healthy lifecycle engagement,125.04858299595142,7181.25,3597.25,0
+Kerala,Kasargod,Low Enrolment,Healthy lifecycle engagement,7.833333333333333,,,0
+Kerala,Kollam,Medium Enrolment,Healthy lifecycle engagement,134.24092409240924,1113.2631578947369,443.280701754386,0
+Kerala,Kottayam,Medium Enrolment,Healthy lifecycle engagement,112.06363636363636,2970.153846153846,1013.0,0
+Kerala,Kozhikode,Medium Enrolment,Healthy lifecycle engagement,79.02777777777777,5487.7692307692305,3513.153846153846,0
+Kerala,Malappuram,High Enrolment,Healthy lifecycle engagement,56.189473684210526,1157.1477272727273,891.3295454545455,0
+Kerala,Palakkad,Medium Enrolment,Healthy lifecycle engagement,123.8719806763285,1793.1333333333334,526.0,0
+Kerala,Pathanamthitta,Low Enrolment,Healthy lifecycle engagement,118.04444444444445,1614.35,441.15,0
+Kerala,Thiruvananthapuram,Medium Enrolment,Healthy lifecycle engagement,96.2274678111588,860.9213483146067,349.2022471910112,0
+Kerala,Thrissur,Medium Enrolment,Healthy lifecycle engagement,101.63168724279835,1426.375,553.5416666666666,0
+Kerala,Wayanad,Low Enrolment,Healthy lifecycle engagement,157.8939393939394,3301.0,1620.0,0
+Ladakh,Kargil,Low Enrolment,Healthy lifecycle engagement,35.172413793103445,,,0
+Ladakh,Leh,Low Enrolment,Healthy lifecycle engagement,235.66666666666666,287.8,368.2,0
+Lakshadweep,Lakshadweep,Low Enrolment,Healthy lifecycle engagement,321.4,,,0
+Madhya Pradesh,Agar Malwa,Medium Enrolment,Healthy lifecycle engagement,32.10322580645161,3008.0,2132.0,0
+Madhya Pradesh,Alirajpur,High Enrolment,Healthy lifecycle engagement,13.09867256637168,106.64888888888889,58.004444444444445,0
+Madhya Pradesh,Anuppur,Medium Enrolment,Healthy lifecycle engagement,215.1578947368421,16937.5,8437.5,0
+Madhya Pradesh,Ashok Nagar,High Enrolment,Healthy lifecycle engagement,60.27744807121662,224.16216216216216,285.72972972972974,0
+Madhya Pradesh,Balaghat,High Enrolment,Healthy lifecycle engagement,278.23943661971833,4284.272727272727,5042.636363636364,0
+Madhya Pradesh,Barwani,High Enrolment,Healthy lifecycle engagement,10.090697335856747,102.48306595365419,104.36898395721926,0
+Madhya Pradesh,Betul,High Enrolment,Healthy lifecycle engagement,106.37937384898711,833.3522727272727,320.7613636363636,0
+Madhya Pradesh,Bhind,High Enrolment,Healthy lifecycle engagement,12.928296296296296,47.41320754716981,68.17358490566038,0
+Madhya Pradesh,Bhopal,High Enrolment,Healthy lifecycle engagement,98.04100529100529,995.0,780.1898734177215,0
+Madhya Pradesh,Burhanpur,High Enrolment,Mixed or transitional pattern,12.366239316239316,100.25360230547551,28.034582132564843,1
+Madhya Pradesh,Chhatarpur,High Enrolment,Healthy lifecycle engagement,20.084309730005096,236.4738955823293,202.16867469879517,0
+Madhya Pradesh,Chhindwara,High Enrolment,Healthy lifecycle engagement,242.0593607305936,6432.2,5964.4,0
+Madhya Pradesh,Damoh,Medium Enrolment,Healthy lifecycle engagement,202.36011904761904,17124.666666666668,12487.0,0
+Madhya Pradesh,Datia,High Enrolment,Healthy lifecycle engagement,23.646601941747573,469.29411764705884,655.4117647058823,0
+Madhya Pradesh,Dewas,High Enrolment,Healthy lifecycle engagement,46.02884615384615,1112.595744680851,709.7234042553191,0
+Madhya Pradesh,Dhar,High Enrolment,Healthy lifecycle engagement,35.89226804123712,274.22535211267603,271.3755868544601,0
+Madhya Pradesh,Dindori,Medium Enrolment,Healthy lifecycle engagement,328.83516483516485,,,0
+Madhya Pradesh,East Nimar,Medium Enrolment,Healthy lifecycle engagement,13.49923896499239,1456.764705882353,307.29411764705884,0
+Madhya Pradesh,Guna,High Enrolment,Healthy lifecycle engagement,62.969151670951156,995.0909090909091,855.7272727272727,0
+Madhya Pradesh,Gwalior,High Enrolment,Healthy lifecycle engagement,14.886991461577097,85.6951871657754,92.5258467023173,0
+Madhya Pradesh,Harda,Medium Enrolment,Healthy lifecycle engagement,114.29931972789116,2288.4285714285716,972.7142857142857,0
+Madhya Pradesh,Harda *,Low Enrolment,Healthy lifecycle engagement,47.5,,,0
+Madhya Pradesh,Hoshangabad,Medium Enrolment,Healthy lifecycle engagement,118.76969696969697,3615.75,524.5,0
+Madhya Pradesh,Indore,High Enrolment,Healthy lifecycle engagement,29.9322203672788,401.29824561403507,577.2982456140351,0
+Madhya Pradesh,Jabalpur,High Enrolment,Healthy lifecycle engagement,109.52912621359224,1764.235294117647,1855.6176470588234,0
+Madhya Pradesh,Jhabua,High Enrolment,Healthy lifecycle engagement,10.059803697785894,173.42934782608697,134.08695652173913,0
+Madhya Pradesh,Katni,High Enrolment,Healthy lifecycle engagement,41.434434434434436,595.016129032258,559.7258064516129,0
+Madhya Pradesh,Khandwa,Medium Enrolment,Healthy lifecycle engagement,47.00452488687783,423.25,227.36363636363637,0
+Madhya Pradesh,Khargone,High Enrolment,Healthy lifecycle engagement,22.246182040317656,183.2216748768473,60.77832512315271,0
+Madhya Pradesh,Maihar,Low Enrolment,Healthy lifecycle engagement,17.875,121.57142857142857,326.0,0
+Madhya Pradesh,Mandla,Medium Enrolment,Healthy lifecycle engagement,335.75824175824175,11577.0,18841.5,0
+Madhya Pradesh,Mandsaur,High Enrolment,Healthy lifecycle engagement,147.46619217081852,5559.571428571428,4847.0,0
+Madhya Pradesh,Mauganj,Low Enrolment,"Low enrolment, weak engagement",3.0,571.0,2341.0,1
+Madhya Pradesh,Morena,High Enrolment,Healthy lifecycle engagement,15.490641468290024,91.7618025751073,164.53648068669528,0
+Madhya Pradesh,Narmadapuram,Low Enrolment,Healthy lifecycle engagement,34.30555555555556,599.25,411.5,0
+Madhya Pradesh,Narsimhapur,Low Enrolment,Healthy lifecycle engagement,22.6,,,0
+Madhya Pradesh,Narsinghpur,Medium Enrolment,Healthy lifecycle engagement,55.58273381294964,611.6470588235294,474.47058823529414,0
+Madhya Pradesh,Neemuch,Medium Enrolment,Healthy lifecycle engagement,97.66451612903226,2103.777777777778,2731.1111111111113,0
+Madhya Pradesh,Niwari,Low Enrolment,Healthy lifecycle engagement,152.0,,,0
+Madhya Pradesh,Pandhurna,Low Enrolment,Healthy lifecycle engagement,,101.5,173.5,0
+Madhya Pradesh,Panna,High Enrolment,Healthy lifecycle engagement,50.067079463364294,535.5633802816901,399.1830985915493,0
+Madhya Pradesh,Raisen,High Enrolment,Healthy lifecycle engagement,125.9746835443038,750.3018867924528,496.39622641509436,0
+Madhya Pradesh,Rajgarh,Medium Enrolment,Healthy lifecycle engagement,133.98211091234347,23631.0,8424.0,0
+Madhya Pradesh,Ratlam,High Enrolment,Healthy lifecycle engagement,124.71270718232044,3641.8333333333335,4778.916666666667,0
+Madhya Pradesh,Rewa,High Enrolment,Healthy lifecycle engagement,201.00954198473283,15017.25,12264.25,0
+Madhya Pradesh,Sagar,High Enrolment,Healthy lifecycle engagement,110.77480490523969,631.9905660377359,561.6698113207547,0
+Madhya Pradesh,Satna,High Enrolment,Healthy lifecycle engagement,105.58571428571429,1287.787234042553,1193.659574468085,0
+Madhya Pradesh,Sehore,High Enrolment,Healthy lifecycle engagement,61.2632944228275,1547.4571428571428,494.0285714285714,0
+Madhya Pradesh,Seoni,Medium Enrolment,Healthy lifecycle engagement,237.75,11113.333333333334,16995.0,0
+Madhya Pradesh,Shahdol,Medium Enrolment,Healthy lifecycle engagement,152.171875,974.1190476190476,879.7619047619048,0
+Madhya Pradesh,Shajapur,Medium Enrolment,Healthy lifecycle engagement,138.5232273838631,9190.666666666666,3023.1666666666665,0
+Madhya Pradesh,Sheopur,High Enrolment,Healthy lifecycle engagement,13.725105189340814,184.37962962962962,244.97222222222223,0
+Madhya Pradesh,Shivpuri,High Enrolment,Healthy lifecycle engagement,31.695553880934437,283.63392857142856,198.57142857142858,0
+Madhya Pradesh,Sidhi,Medium Enrolment,Healthy lifecycle engagement,326.73853211009174,7236.2,6859.0,0
+Madhya Pradesh,Singrauli,Medium Enrolment,Healthy lifecycle engagement,265.4923076923077,4455.666666666667,5777.166666666667,0
+Madhya Pradesh,Tikamgarh,Medium Enrolment,Healthy lifecycle engagement,143.63572679509633,30872.0,15219.5,0
+Madhya Pradesh,Ujjain,High Enrolment,Healthy lifecycle engagement,98.47788873038516,1203.0,1151.7441860465117,0
+Madhya Pradesh,Umaria,Medium Enrolment,Healthy lifecycle engagement,54.2996632996633,1252.5,1619.25,0
+Madhya Pradesh,Vidisha,High Enrolment,Healthy lifecycle engagement,44.469907407407405,352.8167938931298,232.45801526717557,0
+Madhya Pradesh,West Nimar,Low Enrolment,Healthy lifecycle engagement,44.755102040816325,2916.5,394.0,0
+Maharashtra,Ahmadnagar,High Enrolment,Healthy lifecycle engagement,109.55357142857143,1972.886075949367,1422.5316455696202,0
+Maharashtra,Ahmed Nagar,Low Enrolment,Healthy lifecycle engagement,33.76470588235294,,,0
+Maharashtra,Akola,Medium Enrolment,Healthy lifecycle engagement,99.26142131979695,2373.720930232558,758.4883720930233,0
+Maharashtra,Amravati,High Enrolment,Healthy lifecycle engagement,152.59012875536482,3322.8214285714284,858.6428571428571,0
+Maharashtra,Aurangabad,High Enrolment,Healthy lifecycle engagement,29.255543822597676,1734.7777777777778,869.8444444444444,0
+Maharashtra,Beed,High Enrolment,Healthy lifecycle engagement,47.68957345971564,496.0726495726496,402.7991452991453,0
+Maharashtra,Bhandara,Medium Enrolment,Healthy lifecycle engagement,1253.1176470588234,13539.75,5001.75,0
+Maharashtra,Bid,Low Enrolment,Healthy lifecycle engagement,6.448979591836735,,,0
+Maharashtra,Buldana,Low Enrolment,Healthy lifecycle engagement,55.375,,,0
+Maharashtra,Buldhana,High Enrolment,Healthy lifecycle engagement,94.72545757071548,850.1932773109244,470.3613445378151,0
+Maharashtra,Chandrapur,Medium Enrolment,Healthy lifecycle engagement,242.86138613861385,2613.279069767442,1337.2790697674418,0
+Maharashtra,Chatrapati Sambhaji Nagar,Low Enrolment,Healthy lifecycle engagement,11.129032258064516,387.0,1313.0,0
+Maharashtra,Chhatrapati Sambhajinagar,Low Enrolment,Healthy lifecycle engagement,6.9423076923076925,187.88888888888889,374.55555555555554,0
+Maharashtra,Dharashiv,Low Enrolment,Healthy lifecycle engagement,10.75,42.333333333333336,156.77777777777777,0
+Maharashtra,Dhule,High Enrolment,Healthy lifecycle engagement,19.273646209386282,234.3498817966903,69.55319148936171,0
+Maharashtra,Gadchiroli,Medium Enrolment,Healthy lifecycle engagement,285.6224489795918,5133.714285714285,1872.5,0
+Maharashtra,Gondia,Low Enrolment,"Low enrolment, weak engagement",3.3333333333333335,,,1
+Maharashtra,Gondiya,Medium Enrolment,Healthy lifecycle engagement,752.0909090909091,44656.0,31682.0,0
+Maharashtra,Gondiya *,Low Enrolment,Healthy lifecycle engagement,20.0,,,0
+Maharashtra,Hingoli,High Enrolment,Healthy lifecycle engagement,30.517403574788336,180.18446601941747,151.85113268608416,0
+Maharashtra,Jalgaon,High Enrolment,Healthy lifecycle engagement,81.13568215892055,1539.5073529411766,563.4926470588235,0
+Maharashtra,Jalna,Medium Enrolment,Healthy lifecycle engagement,140.6984126984127,8539.727272727272,3507.7272727272725,0
+Maharashtra,Kolhapur,Medium Enrolment,Healthy lifecycle engagement,251.55357142857142,9394.76923076923,4757.538461538462,0
+Maharashtra,Latur,High Enrolment,Healthy lifecycle engagement,64.6513966480447,1455.4141414141413,686.5757575757576,0
+Maharashtra,Mumbai,High Enrolment,Healthy lifecycle engagement,61.10243553008596,3506.7419354838707,1097.016129032258,0
+Maharashtra,Mumbai City,Medium Enrolment,Healthy lifecycle engagement,135.33566433566435,1588.6,3164.1,0
+Maharashtra,Mumbai Suburban,High Enrolment,Healthy lifecycle engagement,19.867032016152294,111.5137614678899,222.98899082568806,0
+Maharashtra,Mumbai( Sub Urban ),Low Enrolment,Healthy lifecycle engagement,10.571428571428571,,,0
+Maharashtra,Nagpur,High Enrolment,Healthy lifecycle engagement,115.89139633286318,1359.1510791366907,627.043165467626,0
+Maharashtra,Nanded,High Enrolment,Healthy lifecycle engagement,66.63011695906432,842.128078817734,568.7241379310345,0
+Maharashtra,Nandurbar,High Enrolment,Healthy lifecycle engagement,31.6973293768546,694.7852348993289,159.96644295302013,0
+Maharashtra,Nandurbar *,Low Enrolment,"Low enrolment, weak engagement",1.0,,,1
+Maharashtra,Nashik,High Enrolment,Healthy lifecycle engagement,46.3476526541884,1512.5945945945946,698.2486486486487,0
+Maharashtra,Osmanabad,Medium Enrolment,Healthy lifecycle engagement,159.35880398671097,7737.8,5702.6,0
+Maharashtra,Palghar,High Enrolment,Healthy lifecycle engagement,35.4154616240267,531.7524752475248,685.5445544554456,0
+Maharashtra,Parbhani,Medium Enrolment,Healthy lifecycle engagement,150.24415584415584,1396.4590163934427,891.2131147540983,0
+Maharashtra,Pune,High Enrolment,Healthy lifecycle engagement,60.662299854439595,411.2963549920761,399.4992076069731,0
+Maharashtra,Raigad,Medium Enrolment,Mixed or transitional pattern,5.821576763485477,141.375,488.25,1
+Maharashtra,Raigarh,Medium Enrolment,Healthy lifecycle engagement,200.0625,,,0
+Maharashtra,Raigarh(MH),Low Enrolment,"Low enrolment, weak engagement",1.8333333333333333,,,1
+Maharashtra,Ratnagiri,Medium Enrolment,Healthy lifecycle engagement,418.84705882352944,3189.4736842105262,1248.9473684210527,0
+Maharashtra,Sangli,High Enrolment,Healthy lifecycle engagement,52.77731092436975,1039.0816326530612,415.0204081632653,0
+Maharashtra,Satara,High Enrolment,Healthy lifecycle engagement,168.53652392947103,1016.0963855421687,566.710843373494,0
+Maharashtra,Sindhudurg,Low Enrolment,Healthy lifecycle engagement,756.7058823529412,2853.0,1706.4285714285713,0
+Maharashtra,Solapur,High Enrolment,Healthy lifecycle engagement,96.39695340501792,1010.972972972973,880.5337837837837,0
+Maharashtra,Thane,High Enrolment,Healthy lifecycle engagement,15.42156537141592,422.5625,404.26636904761904,0
+Maharashtra,Wardha,Medium Enrolment,Healthy lifecycle engagement,1120.56,31878.5,7815.5,0
+Maharashtra,Washim,Medium Enrolment,Healthy lifecycle engagement,201.98076923076923,2117.235294117647,723.2941176470588,0
+Maharashtra,Washim *,Low Enrolment,Healthy lifecycle engagement,11.0,,,0
+Maharashtra,Yavatmal,High Enrolment,Healthy lifecycle engagement,87.08947368421053,1391.6507936507937,786.1666666666666,0
+Manipur,Bishnupur,Low Enrolment,Healthy lifecycle engagement,54.90909090909091,225.4,538.5428571428571,0
+Manipur,Chandel,Low Enrolment,Healthy lifecycle engagement,20.490909090909092,1094.6666666666667,1532.6666666666667,0
+Manipur,Churachandpur,High Enrolment,"High enrolment, weak engagement",3.132119333591631,83.18055555555556,140.48611111111111,1
+Manipur,Imphal East,Low Enrolment,Healthy lifecycle engagement,162.7764705882353,4286.5,5850.25,0
+Manipur,Imphal West,Low Enrolment,Healthy lifecycle engagement,125.22169811320755,670.9,1053.1666666666667,0
+Manipur,Jiribam,Low Enrolment,Healthy lifecycle engagement,17.142857142857142,1331.0,778.0,0
+Manipur,Kakching,Low Enrolment,Healthy lifecycle engagement,44.833333333333336,,,0
+Manipur,Senapati,Low Enrolment,Healthy lifecycle engagement,39.57983193277311,1318.1666666666667,1919.1666666666667,0
+Manipur,Tamenglong,Low Enrolment,Healthy lifecycle engagement,13.939814814814815,236.23076923076923,357.84615384615387,0
+Manipur,Thoubal,Low Enrolment,Healthy lifecycle engagement,108.84018264840182,6226.0,9598.333333333334,0
+Manipur,Ukhrul,Low Enrolment,Healthy lifecycle engagement,30.73248407643312,1000.5,1403.5,0
+Meghalaya,East Garo Hills,High Enrolment,"High enrolment, weak engagement",0.2709393014581214,1.0882557331480194,3.102154273801251,3
+Meghalaya,East Jaintia Hills,High Enrolment,"High enrolment, weak engagement",0.6392375639237564,0.3762057877813505,1.3228295819935691,3
+Meghalaya,East Khasi Hills,High Enrolment,"High enrolment, weak engagement",0.534938299644182,1.2677575306805504,1.19895872071402,3
+Meghalaya,Eastern West Khasi Hills,Low Enrolment,"Low enrolment, weak engagement",0.012987012987012988,,,1
+Meghalaya,North Garo Hills,Medium Enrolment,Mixed or transitional pattern,0.418526031102096,0.6848484848484848,5.002020202020202,3
+Meghalaya,Ri Bhoi,High Enrolment,"High enrolment, weak engagement",0.4397283531409168,0.4703808180535966,1.8370944992947813,3
+Meghalaya,South Garo Hills,High Enrolment,"High enrolment, weak engagement",0.23207647371216145,0.49759229534510435,2.382825040128411,3
+Meghalaya,South West Garo Hills,High Enrolment,"High enrolment, weak engagement",1.069482288828338,2.672215108834827,6.489116517285531,3
+Meghalaya,South West Khasi Hills,High Enrolment,"High enrolment, weak engagement",1.0903034789045152,1.3305785123966942,3.6084710743801653,3
+Meghalaya,West Garo Hills,High Enrolment,"High enrolment, weak engagement",1.152791542781632,5.57409653165171,2.2636429784137766,3
+Meghalaya,West Jaintia Hills,High Enrolment,"High enrolment, weak engagement",0.6466584158415841,0.48372376026772135,1.5686035898996045,3
+Meghalaya,West Khasi Hills,High Enrolment,"High enrolment, weak engagement",0.38676844783715014,0.5597600369173973,1.6326718966312874,3
+Mizoram,Aizawl,Low Enrolment,Healthy lifecycle engagement,318.80281690140845,880.8181818181819,740.2727272727273,0
+Mizoram,Champhai,Medium Enrolment,Healthy lifecycle engagement,54.09452736318408,59.25373134328358,69.97014925373135,0
+Mizoram,Khawzawl,Low Enrolment,"Low enrolment, weak engagement",0.0,0.25,5.0,3
+Mizoram,Kolasib,Low Enrolment,Healthy lifecycle engagement,239.83870967741936,86.96774193548387,81.38709677419355,0
+Mizoram,Lawngtlai,Medium Enrolment,Healthy lifecycle engagement,32.04897959183673,46.416666666666664,36.0,0
+Mizoram,Lunglei,Low Enrolment,Healthy lifecycle engagement,119.1358024691358,75.16129032258064,79.2258064516129,0
+Mizoram,Mamit,Low Enrolment,Healthy lifecycle engagement,1369.1666666666667,,,0
+Mizoram,Saiha,Low Enrolment,"Low enrolment, weak engagement",32.054263565891475,11.627659574468085,11.319148936170214,2
+Mizoram,Saitual,Low Enrolment,"Low enrolment, weak engagement",16.5,17.5,35.5,2
+Mizoram,Serchhip,Low Enrolment,Healthy lifecycle engagement,517.8888888888889,1253.5,833.5,0
+Nagaland,Chumukedima,Low Enrolment,"Low enrolment, weak engagement",2.888888888888889,10.243243243243244,25.0,3
+Nagaland,Dimapur,High Enrolment,"High enrolment, weak engagement",4.6978131212723655,52.56175298804781,18.127490039840637,2
+Nagaland,Kiphire,Low Enrolment,"Low enrolment, weak engagement",3.0439882697947214,58.3,26.65,2
+Nagaland,Kohima,Medium Enrolment,Mixed or transitional pattern,3.28696925329429,97.32978723404256,19.0,2
+Nagaland,Longleng,Medium Enrolment,Mixed or transitional pattern,0.911660777385159,43.57142857142857,8.642857142857142,2
+Nagaland,Meluri,Low Enrolment,Mixed or transitional pattern,19.0,236.0,22.5,1
+Nagaland,Mokokchung,Low Enrolment,Healthy lifecycle engagement,7.480662983425415,152.7058823529412,45.8235294117647,0
+Nagaland,Mon,Medium Enrolment,Mixed or transitional pattern,3.803861788617886,54.0,17.669117647058822,2
+Nagaland,Niuland,Low Enrolment,Healthy lifecycle engagement,20.0,152.0,222.0,0
+Nagaland,Noklak,Low Enrolment,"Low enrolment, weak engagement",1.3697478991596639,13.8125,5.75,3
+Nagaland,Peren,Medium Enrolment,Mixed or transitional pattern,1.8141711229946524,31.473684210526315,12.486842105263158,3
+Nagaland,Phek,Medium Enrolment,Mixed or transitional pattern,2.598062953995157,226.25,29.642857142857142,2
+Nagaland,Shamator,Low Enrolment,"Low enrolment, weak engagement",0.4126984126984127,11.125,19.375,3
+Nagaland,Tseminyu,Low Enrolment,"Low enrolment, weak engagement",,22.4,7.8,2
+Nagaland,Tuensang,Medium Enrolment,Mixed or transitional pattern,2.3248407643312103,83.22222222222223,33.56944444444444,2
+Nagaland,Wokha,Low Enrolment,"Low enrolment, weak engagement",5.540229885057471,165.0,51.51851851851852,1
+Nagaland,Zunheboto,Low Enrolment,"Low enrolment, weak engagement",2.7493333333333334,158.91666666666666,36.5,1
+Odisha,ANUGUL,Low Enrolment,Healthy lifecycle engagement,70.0,,,0
+Odisha,Angul,Medium Enrolment,Healthy lifecycle engagement,142.27272727272728,26251.0,15860.0,0
+Odisha,Anugul,Low Enrolment,Healthy lifecycle engagement,16.857142857142858,,,0
+Odisha,Balangir,Medium Enrolment,Healthy lifecycle engagement,113.83018867924528,1375.7307692307693,846.0,0
+Odisha,Baleshwar,Low Enrolment,Healthy lifecycle engagement,54.86486486486486,,,0
+Odisha,Baleswar,Medium Enrolment,Healthy lifecycle engagement,106.69059405940594,37162.0,24028.0,0
+Odisha,Bargarh,Medium Enrolment,Healthy lifecycle engagement,100.12459016393443,,,0
+Odisha,Baudh,Low Enrolment,Healthy lifecycle engagement,43.666666666666664,,,0
+Odisha,Bhadrak,Medium Enrolment,Healthy lifecycle engagement,93.87703016241299,4272.375,2757.125,0
+Odisha,Boudh,Low Enrolment,Healthy lifecycle engagement,99.5,,,0
+Odisha,Cuttack,Medium Enrolment,Healthy lifecycle engagement,141.15384615384616,19446.0,9598.333333333334,0
+Odisha,Debagarh,Low Enrolment,Healthy lifecycle engagement,230.2962962962963,3237.0,2138.5,0
+Odisha,Dhenkanal,Medium Enrolment,Healthy lifecycle engagement,158.3942857142857,32902.0,15241.0,0
+Odisha,Gajapati,Medium Enrolment,Healthy lifecycle engagement,179.416,12367.5,6080.5,0
+Odisha,Ganjam,High Enrolment,Healthy lifecycle engagement,211.79008746355686,14675.0,10865.6,0
+Odisha,JAJPUR,Medium Enrolment,Healthy lifecycle engagement,108.07142857142857,1963.5714285714287,1561.7142857142858,0
+Odisha,Jagatsinghapur,Medium Enrolment,Healthy lifecycle engagement,194.29032258064515,4530.0,2309.75,0
+Odisha,Jagatsinghpur,Low Enrolment,Healthy lifecycle engagement,70.15384615384616,,,0
+Odisha,Jajapur,Medium Enrolment,Healthy lifecycle engagement,139.0496894409938,,,0
+Odisha,Jajpur,Low Enrolment,Healthy lifecycle engagement,70.0,,,0
+Odisha,Jharsuguda,Low Enrolment,Healthy lifecycle engagement,315.83870967741933,,,0
+Odisha,Kalahandi,Medium Enrolment,Healthy lifecycle engagement,85.58481012658228,4385.1,2679.3,0
+Odisha,Kandhamal,Medium Enrolment,Healthy lifecycle engagement,133.96363636363637,26289.0,18769.0,0
+Odisha,Kendrapara,Medium Enrolment,Healthy lifecycle engagement,104.3225806451613,10779.666666666666,7611.0,0
+Odisha,Kendujhar,Medium Enrolment,Healthy lifecycle engagement,92.14357682619648,23113.0,15573.0,0
+Odisha,Khorda,Medium Enrolment,Healthy lifecycle engagement,168.70776255707761,2770.9285714285716,1489.2142857142858,0
+Odisha,Khordha,Low Enrolment,Healthy lifecycle engagement,21.509090909090908,383.61538461538464,149.15384615384616,0
+Odisha,Koraput,Medium Enrolment,Healthy lifecycle engagement,87.61872146118722,,,0
+Odisha,Malkangiri,Medium Enrolment,Healthy lifecycle engagement,89.77685950413223,17207.0,11835.0,0
+Odisha,Mayurbhanj,High Enrolment,Healthy lifecycle engagement,82.20189701897019,16752.5,9734.75,0
+Odisha,NUAPADA,Low Enrolment,Healthy lifecycle engagement,16.5,,,0
+Odisha,Nabarangapur,High Enrolment,Healthy lifecycle engagement,46.080845771144276,2169.4444444444443,1420.2222222222222,0
+Odisha,Nayagarh,Medium Enrolment,Healthy lifecycle engagement,221.01869158878506,4370.833333333333,2158.0,0
+Odisha,Nuapada,Medium Enrolment,Healthy lifecycle engagement,111.6687898089172,,,0
+Odisha,Puri,Medium Enrolment,Healthy lifecycle engagement,139.7461139896373,29337.0,16165.0,0
+Odisha,Rayagada,Medium Enrolment,Healthy lifecycle engagement,96.69421487603306,24692.0,17632.0,0
+Odisha,Sambalpur,Medium Enrolment,Healthy lifecycle engagement,171.96610169491527,,,0
+Odisha,Sonapur,Medium Enrolment,Healthy lifecycle engagement,123.94680851063829,,,0
+Odisha,Subarnapur,Low Enrolment,Healthy lifecycle engagement,90.94117647058823,,,0
+Odisha,Sundargarh,Low Enrolment,Healthy lifecycle engagement,78.57575757575758,,,0
+Odisha,Sundergarh,Medium Enrolment,Healthy lifecycle engagement,179.63720930232557,39426.0,26171.0,0
+Odisha,jajpur,Low Enrolment,Healthy lifecycle engagement,23.333333333333332,,,0
+Orissa,Anugul,Low Enrolment,Healthy lifecycle engagement,28.0,,,0
+Orissa,Balangir,Low Enrolment,Healthy lifecycle engagement,47.80952380952381,,,0
+Orissa,Baleshwar,Low Enrolment,Healthy lifecycle engagement,39.473684210526315,,,0
+Orissa,Bargarh,Low Enrolment,Healthy lifecycle engagement,174.0,,,0
+Orissa,Bhadrak,Low Enrolment,Healthy lifecycle engagement,71.58823529411765,,,0
+Orissa,Cuttack,Low Enrolment,Healthy lifecycle engagement,56.142857142857146,,,0
+Orissa,Dhenkanal,Low Enrolment,Healthy lifecycle engagement,47.42857142857143,,,0
+Orissa,Ganjam,Low Enrolment,Healthy lifecycle engagement,52.56,,,0
+Orissa,Jagatsinghapur,Low Enrolment,Healthy lifecycle engagement,30.0,,,0
+Orissa,Jajapur,Low Enrolment,Healthy lifecycle engagement,15.75,,,0
+Orissa,Kandhamal,Low Enrolment,Healthy lifecycle engagement,25.0,,,0
+Orissa,Kendujhar,Low Enrolment,Healthy lifecycle engagement,12.0,,,0
+Orissa,Khordha,Low Enrolment,Healthy lifecycle engagement,58.583333333333336,,,0
+Orissa,Koraput,Low Enrolment,Healthy lifecycle engagement,22.625,,,0
+Orissa,Malkangiri,Low Enrolment,Healthy lifecycle engagement,6.75,,,0
+Orissa,Mayurbhanj,Low Enrolment,Healthy lifecycle engagement,6.0,,,0
+Orissa,Nayagarh,Low Enrolment,Healthy lifecycle engagement,48.4,,,0
+Orissa,Puri,Low Enrolment,Healthy lifecycle engagement,55.72727272727273,,,0
+Orissa,Rayagada,Low Enrolment,Healthy lifecycle engagement,12.9,,,0
+Orissa,Sundargarh,Low Enrolment,Healthy lifecycle engagement,20.0,,,0
+Orissa,Sundergarh,Low Enrolment,"Low enrolment, weak engagement",0.0,,,1
+Pondicherry,Karaikal,Low Enrolment,Healthy lifecycle engagement,14.8,,,0
+Pondicherry,Pondicherry,Low Enrolment,Healthy lifecycle engagement,157.5909090909091,,,0
+Puducherry,Karaikal,Low Enrolment,Healthy lifecycle engagement,481.625,1077.8333333333333,432.1666666666667,0
+Puducherry,Puducherry,Low Enrolment,Healthy lifecycle engagement,521.5238095238095,1265.125,1292.125,0
+Puducherry,Yanam,Low Enrolment,Healthy lifecycle engagement,28.0,,,0
+Punjab,Amritsar,High Enrolment,Healthy lifecycle engagement,36.495652173913044,521.58125,434.18125,0
+Punjab,Barnala,Low Enrolment,Healthy lifecycle engagement,340.3142857142857,8301.5,3999.5,0
+Punjab,Bathinda,Medium Enrolment,Healthy lifecycle engagement,305.8715596330275,4948.333333333333,2530.8888888888887,0
+Punjab,Faridkot,Low Enrolment,Healthy lifecycle engagement,368.6060606060606,,,0
+Punjab,Fatehgarh Sahib,Low Enrolment,Healthy lifecycle engagement,323.07142857142856,4236.5,2487.5,0
+Punjab,Fazilka,Medium Enrolment,Healthy lifecycle engagement,232.02941176470588,13430.5,10863.5,0
+Punjab,Ferozepur,Medium Enrolment,Healthy lifecycle engagement,571.0857142857143,8847.666666666666,6441.333333333333,0
+Punjab,Firozpur,Low Enrolment,Healthy lifecycle engagement,62.75,,,0
+Punjab,Gurdaspur,High Enrolment,Healthy lifecycle engagement,117.87285223367698,896.4054054054054,668.2972972972973,0
+Punjab,Hoshiarpur,Medium Enrolment,Healthy lifecycle engagement,100.67148014440433,435.39130434782606,272.95652173913044,0
+Punjab,Jalandhar,Medium Enrolment,Healthy lifecycle engagement,178.91304347826087,2854.4444444444443,1074.5555555555557,0
+Punjab,Kapurthala,High Enrolment,"High enrolment, weak engagement",44.471471471471475,37.81640146878825,7.348837209302325,2
+Punjab,Ludhiana,High Enrolment,Healthy lifecycle engagement,19.319112136062266,150.2,123.22926829268293,0
+Punjab,Malerkotla,Low Enrolment,Healthy lifecycle engagement,89.88679245283019,,,0
+Punjab,Mansa,Low Enrolment,Healthy lifecycle engagement,487.0,31511.0,15392.0,0
+Punjab,Moga,Medium Enrolment,Healthy lifecycle engagement,252.68421052631578,10651.666666666666,4967.0,0
+Punjab,Muktsar,Low Enrolment,Healthy lifecycle engagement,53.30769230769231,,,0
+Punjab,Nawanshahr,Low Enrolment,Healthy lifecycle engagement,18.4,,,0
+Punjab,Pathankot,Low Enrolment,Healthy lifecycle engagement,418.7083333333333,,,0
+Punjab,Patiala,High Enrolment,Healthy lifecycle engagement,93.68875502008032,1299.3333333333333,1556.2619047619048,0
+Punjab,Rupnagar,Low Enrolment,Healthy lifecycle engagement,334.2093023255814,,,0
+Punjab,S.A.S Nagar(Mohali),Low Enrolment,Healthy lifecycle engagement,19.642857142857142,,,0
+Punjab,SAS Nagar (Mohali),Medium Enrolment,Healthy lifecycle engagement,118.4770642201835,1266.5555555555557,2194.222222222222,0
+Punjab,Sangrur,Medium Enrolment,Healthy lifecycle engagement,335.9080459770115,2926.0,1274.5384615384614,0
+Punjab,Shaheed Bhagat Singh Nagar,Low Enrolment,Healthy lifecycle engagement,230.6595744680851,14131.0,2990.0,0
+Punjab,Sri Muktsar Sahib,Medium Enrolment,Healthy lifecycle engagement,298.0857142857143,,,0
+Punjab,Tarn Taran,Medium Enrolment,Healthy lifecycle engagement,177.5748031496063,4270.181818181818,1513.1818181818182,0
+Rajasthan,Ajmer,High Enrolment,Healthy lifecycle engagement,48.71129707112971,528.8659793814433,895.6701030927835,0
+Rajasthan,Alwar,High Enrolment,Healthy lifecycle engagement,28.449340527577938,493.640243902439,583.6036585365854,0
+Rajasthan,Banswara,Medium Enrolment,Healthy lifecycle engagement,41.30074388947928,4732.714285714285,10509.285714285714,0
+Rajasthan,Baran,High Enrolment,Healthy lifecycle engagement,47.579510703363916,636.5510204081633,1209.857142857143,0
+Rajasthan,Barmer,High Enrolment,Healthy lifecycle engagement,48.7843696520251,1917.235294117647,2474.9117647058824,0
+Rajasthan,Bharatpur,High Enrolment,Healthy lifecycle engagement,21.854189336235038,705.5068493150685,986.1643835616438,0
+Rajasthan,Bhilwara,High Enrolment,Healthy lifecycle engagement,38.45342126957956,489.5,799.4166666666666,0
+Rajasthan,Bikaner,High Enrolment,Healthy lifecycle engagement,16.878004369992716,446.528,435.72,0
+Rajasthan,Bundi,Medium Enrolment,Healthy lifecycle engagement,47.294755877034355,331.31944444444446,473.9861111111111,0
+Rajasthan,Chittaurgarh,Low Enrolment,Healthy lifecycle engagement,16.48,1204.0,868.0,0
+Rajasthan,Chittorgarh,High Enrolment,Healthy lifecycle engagement,23.20149253731343,317.05797101449275,614.1449275362319,0
+Rajasthan,Churu,High Enrolment,Healthy lifecycle engagement,20.146281999187323,503.02830188679246,502.6698113207547,0
+Rajasthan,Dausa,Medium Enrolment,Healthy lifecycle engagement,79.9651376146789,5849.285714285715,4622.428571428572,0
+Rajasthan,Deeg,Low Enrolment,"Low enrolment, weak engagement",0.75,78.0,519.0,1
+Rajasthan,Dhaulpur,Low Enrolment,Healthy lifecycle engagement,7.0,,,0
+Rajasthan,Dholpur,High Enrolment,Healthy lifecycle engagement,28.899770466717673,272.12345679012344,693.4444444444445,0
+Rajasthan,Dungarpur,Medium Enrolment,Healthy lifecycle engagement,39.82234042553191,1269.0,3379.0,0
+Rajasthan,Ganganagar,Medium Enrolment,Healthy lifecycle engagement,85.85265700483092,2741.470588235294,2846.8823529411766,0
+Rajasthan,Hanumangarh,Medium Enrolment,Healthy lifecycle engagement,56.538851351351354,1758.48,2315.2,0
+Rajasthan,Jaipur,High Enrolment,Healthy lifecycle engagement,29.881468703794972,409.09090909090907,457.72474747474746,0
+Rajasthan,Jaisalmer,Medium Enrolment,Healthy lifecycle engagement,46.29950495049505,654.9166666666666,561.5416666666666,0
+Rajasthan,Jalor,High Enrolment,Healthy lifecycle engagement,17.55750487329435,232.87878787878788,297.45454545454544,0
+Rajasthan,Jalore,Low Enrolment,"Low enrolment, weak engagement",0.005494505494505495,0.7692307692307693,33.53846153846154,3
+Rajasthan,Jhalawar,High Enrolment,Healthy lifecycle engagement,45.75931677018634,1056.6785714285713,2167.5714285714284,0
+Rajasthan,Jhunjhunu,Low Enrolment,Healthy lifecycle engagement,10.303030303030303,,,0
+Rajasthan,Jhunjhunun,High Enrolment,Healthy lifecycle engagement,58.19611021069692,2589.8,1649.2,0
+Rajasthan,Jodhpur,High Enrolment,Healthy lifecycle engagement,26.058805698696574,295.3958333333333,347.8229166666667,0
+Rajasthan,Karauli,High Enrolment,Healthy lifecycle engagement,32.86418685121107,375.6617647058824,544.2647058823529,0
+Rajasthan,Kota,Medium Enrolment,Healthy lifecycle engagement,64.67361111111111,694.7777777777778,1196.9259259259259,0
+Rajasthan,Nagaur,High Enrolment,Healthy lifecycle engagement,29.967581998474447,882.7096774193549,769.1182795698925,0
+Rajasthan,Pali,High Enrolment,Healthy lifecycle engagement,59.40909090909091,1572.840909090909,1028.8863636363637,0
+Rajasthan,Pratapgarh,Medium Enrolment,Healthy lifecycle engagement,67.00738916256158,9271.0,17259.0,0
+Rajasthan,Rajsamand,Medium Enrolment,Healthy lifecycle engagement,56.68636363636364,2453.0,3503.3333333333335,0
+Rajasthan,Sawai Madhopur,High Enrolment,Healthy lifecycle engagement,38.59101654846336,1241.52,1149.68,0
+Rajasthan,Sikar,High Enrolment,Healthy lifecycle engagement,48.563545150501675,964.7894736842105,634.3684210526316,0
+Rajasthan,Sirohi,High Enrolment,Healthy lifecycle engagement,8.565039262546945,140.87309644670052,136.83756345177665,0
+Rajasthan,Tonk,High Enrolment,Healthy lifecycle engagement,42.250329380764164,1158.6666666666667,1380.111111111111,0
+Rajasthan,Udaipur,High Enrolment,Healthy lifecycle engagement,34.50935251798561,851.6875,1108.7375,0
+Sikkim,East,Low Enrolment,Healthy lifecycle engagement,34.03225806451613,,,0
+Sikkim,East Sikkim,Low Enrolment,Healthy lifecycle engagement,39.716981132075475,184.42857142857142,327.0,0
+Sikkim,Namchi,Low Enrolment,"Low enrolment, weak engagement",,0.6,33.2,2
+Sikkim,North,Low Enrolment,Healthy lifecycle engagement,17.75,,,0
+Sikkim,North Sikkim,Low Enrolment,Healthy lifecycle engagement,82.0,,,0
+Sikkim,South,Low Enrolment,Healthy lifecycle engagement,21.27906976744186,,,0
+Sikkim,South Sikkim,Low Enrolment,"Low enrolment, weak engagement",5.773399014778325,28.208333333333332,38.458333333333336,2
+Sikkim,West,Low Enrolment,Healthy lifecycle engagement,25.75438596491228,953.0,836.5,0
+Sikkim,West Sikkim,Low Enrolment,"Low enrolment, weak engagement",10.490099009900991,31.466666666666665,44.666666666666664,1
+Tamil Nadu,Ariyalur,Medium Enrolment,Healthy lifecycle engagement,165.61333333333334,20374.5,6030.5,0
+Tamil Nadu,Chengalpattu,Medium Enrolment,Healthy lifecycle engagement,17.60927152317881,58.25806451612903,303.8709677419355,0
+Tamil Nadu,Chennai,High Enrolment,Healthy lifecycle engagement,93.1175799086758,2082.4897959183672,1577.7142857142858,0
+Tamil Nadu,Coimbatore,High Enrolment,Healthy lifecycle engagement,108.16225749559082,6697.777777777777,3467.9444444444443,0
+Tamil Nadu,Cuddalore,High Enrolment,Healthy lifecycle engagement,168.125,5488.363636363636,3988.5454545454545,0
+Tamil Nadu,Dharmapuri,Medium Enrolment,Healthy lifecycle engagement,173.3877551020408,,,0
+Tamil Nadu,Dindigul,Medium Enrolment,Healthy lifecycle engagement,96.94548872180451,50714.0,14689.0,0
+Tamil Nadu,Erode,Medium Enrolment,Healthy lifecycle engagement,129.17086834733894,,,0
+Tamil Nadu,Kallakurichi,Low Enrolment,Healthy lifecycle engagement,22.01123595505618,75.83333333333333,222.41666666666666,0
+Tamil Nadu,Kancheepuram,High Enrolment,Healthy lifecycle engagement,78.00932994062765,2519.5405405405404,2238.4324324324325,0
+Tamil Nadu,Kanchipuram,Low Enrolment,"Low enrolment, weak engagement",0.0,0.45454545454545453,0.45454545454545453,3
+Tamil Nadu,Kanniyakumari,Medium Enrolment,Healthy lifecycle engagement,488.390243902439,,,0
+Tamil Nadu,Kanyakumari,Medium Enrolment,Healthy lifecycle engagement,385.7,3350.0,5231.0,0
+Tamil Nadu,Karur,Medium Enrolment,Healthy lifecycle engagement,82.62645914396887,24096.0,14327.0,0
+Tamil Nadu,Krishnagiri,Medium Enrolment,Healthy lifecycle engagement,187.71724137931034,,,0
+Tamil Nadu,Madurai,High Enrolment,Healthy lifecycle engagement,195.52319587628867,4132.826086956522,2498.913043478261,0
+Tamil Nadu,Mayiladuthurai,Low Enrolment,Healthy lifecycle engagement,103.77272727272727,,,0
+Tamil Nadu,Nagapattinam,Medium Enrolment,Healthy lifecycle engagement,95.14765100671141,,,0
+Tamil Nadu,Namakkal,Medium Enrolment,Healthy lifecycle engagement,165.48372093023255,,,0
+Tamil Nadu,Perambalur,Medium Enrolment,Healthy lifecycle engagement,239.25,,,0
+Tamil Nadu,Pudukkottai,High Enrolment,Healthy lifecycle engagement,66.95779220779221,4355.571428571428,1909.142857142857,0
+Tamil Nadu,Ramanathapuram,Medium Enrolment,Healthy lifecycle engagement,136.1417624521073,1854.5416666666667,833.0416666666666,0
+Tamil Nadu,Ranipet,Low Enrolment,Healthy lifecycle engagement,32.625,,,0
+Tamil Nadu,Salem,High Enrolment,Healthy lifecycle engagement,167.92957746478874,1125.1011235955057,617.0898876404494,0
+Tamil Nadu,Sivaganga,Medium Enrolment,Healthy lifecycle engagement,126.20229007633588,3764.4545454545455,1501.909090909091,0
+Tamil Nadu,Tenkasi,Low Enrolment,Healthy lifecycle engagement,108.30232558139535,,,0
+Tamil Nadu,Thanjavur,Medium Enrolment,Healthy lifecycle engagement,113.80728051391863,6837.75,3414.4166666666665,0
+Tamil Nadu,The Nilgiris,Low Enrolment,Healthy lifecycle engagement,144.13709677419354,,,0
+Tamil Nadu,Theni,Medium Enrolment,Healthy lifecycle engagement,136.31555555555556,,,0
+Tamil Nadu,Thiruvallur,Low Enrolment,Healthy lifecycle engagement,7.5,122.5,73.9,0
+Tamil Nadu,Thiruvarur,Medium Enrolment,Healthy lifecycle engagement,77.38857142857142,28941.0,17669.0,0
+Tamil Nadu,Thoothukkudi,Medium Enrolment,Healthy lifecycle engagement,187.23157894736843,,,0
+Tamil Nadu,Tiruchirappalli,High Enrolment,Healthy lifecycle engagement,100.82998171846435,,,0
+Tamil Nadu,Tirunelveli,High Enrolment,Healthy lifecycle engagement,155.09555555555556,,,0
+Tamil Nadu,Tirupattur,Low Enrolment,Healthy lifecycle engagement,231.42857142857142,,,0
+Tamil Nadu,Tiruppur,Medium Enrolment,Healthy lifecycle engagement,143.07567567567568,,,0
+Tamil Nadu,Tiruvallur,High Enrolment,Healthy lifecycle engagement,95.64242424242424,13141.42857142857,12541.57142857143,0
+Tamil Nadu,Tiruvannamalai,High Enrolment,Healthy lifecycle engagement,263.3543307086614,15252.0,11473.666666666666,0
+Tamil Nadu,Vellore,High Enrolment,Healthy lifecycle engagement,138.57117117117116,1682.4418604651162,1065.953488372093,0
+Tamil Nadu,Villupuram,High Enrolment,Healthy lifecycle engagement,189.34084507042255,,,0
+Tamil Nadu,Viluppuram,Medium Enrolment,Healthy lifecycle engagement,62.95608108108108,,,0
+Tamil Nadu,Virudhunagar,Medium Enrolment,Healthy lifecycle engagement,208.10900473933648,24648.0,14940.5,0
+Telangana,Adilabad,Medium Enrolment,Healthy lifecycle engagement,170.11891891891892,13155.5,12657.0,0
+Telangana,Bhadradri Kothagudem,Medium Enrolment,Healthy lifecycle engagement,24.779935275080906,299.0416666666667,690.125,0
+Telangana,Hanumakonda,Low Enrolment,Healthy lifecycle engagement,33.53658536585366,5468.0,9072.0,0
+Telangana,Hyderabad,High Enrolment,Healthy lifecycle engagement,26.599431009957325,172.74887892376682,297.53139013452915,0
+Telangana,Jagitial,Medium Enrolment,Healthy lifecycle engagement,113.3,1120.0,2533.0,0
+Telangana,Jangaon,Low Enrolment,Healthy lifecycle engagement,11.6,,,0
+Telangana,Jangoan,Low Enrolment,Healthy lifecycle engagement,45.96153846153846,,,0
+Telangana,Jayashankar Bhupalpally,Low Enrolment,Healthy lifecycle engagement,22.112903225806452,,,0
+Telangana,Jogulamba Gadwal,Medium Enrolment,Healthy lifecycle engagement,44.760416666666664,,,0
+Telangana,K.v. Rangareddy,High Enrolment,Healthy lifecycle engagement,69.61454261141517,1488.3283582089553,1587.7761194029852,0
+Telangana,Kamareddy,Medium Enrolment,Healthy lifecycle engagement,89.11864406779661,,,0
+Telangana,Karimnagar,Medium Enrolment,Healthy lifecycle engagement,202.2906976744186,51683.0,41496.0,0
+Telangana,Khammam,Medium Enrolment,Healthy lifecycle engagement,50.10534846029174,3426.5,6839.75,0
+Telangana,Komaram Bheem,Low Enrolment,Healthy lifecycle engagement,39.76190476190476,,,0
+Telangana,Mahabubabad,Medium Enrolment,Healthy lifecycle engagement,42.21739130434783,,,0
+Telangana,Mahabubnagar,High Enrolment,Healthy lifecycle engagement,83.35630965005302,14212.2,9394.2,0
+Telangana,Mancherial,Low Enrolment,Healthy lifecycle engagement,65.26760563380282,,,0
+Telangana,Medak,High Enrolment,Healthy lifecycle engagement,88.04150943396226,21958.5,12408.0,0
+Telangana,Medchal-malkajgiri,Medium Enrolment,Healthy lifecycle engagement,32.4071661237785,413.969696969697,1414.6060606060605,0
+Telangana,Medchal−malkajgiri,Low Enrolment,Healthy lifecycle engagement,47.516129032258064,547.0,562.0,0
+Telangana,Mulugu,Low Enrolment,Healthy lifecycle engagement,21.5125,778.0,1996.3333333333333,0
+Telangana,Nagarkurnool,Medium Enrolment,Healthy lifecycle engagement,39.92857142857143,4179.0,10041.0,0
+Telangana,Nalgonda,Medium Enrolment,Healthy lifecycle engagement,130.43612334801762,,,0
+Telangana,Narayanpet,Low Enrolment,Healthy lifecycle engagement,24.058139534883722,,,0
+Telangana,Nirmal,Medium Enrolment,Healthy lifecycle engagement,99.675,5118.0,16003.0,0
+Telangana,Nizamabad,Medium Enrolment,Healthy lifecycle engagement,201.5990990990991,13521.666666666666,12109.0,0
+Telangana,Peddapalli,Low Enrolment,Healthy lifecycle engagement,54.0,1583.5,2184.0,0
+Telangana,Rajanna Sircilla,Low Enrolment,Healthy lifecycle engagement,164.22222222222223,,,0
+Telangana,Rangareddy,Low Enrolment,Healthy lifecycle engagement,23.88,828.0,1434.0,0
+Telangana,Sangareddy,Medium Enrolment,Healthy lifecycle engagement,67.84328358208955,2118.6666666666665,6875.333333333333,0
+Telangana,Siddipet,Medium Enrolment,Healthy lifecycle engagement,92.83050847457628,4251.0,16858.0,0
+Telangana,Suryapet,Medium Enrolment,Healthy lifecycle engagement,57.36283185840708,,,0
+Telangana,Vikarabad,Medium Enrolment,Healthy lifecycle engagement,29.3463687150838,4903.0,30289.0,0
+Telangana,Wanaparthy,Medium Enrolment,Healthy lifecycle engagement,24.112676056338028,,,0
+Telangana,Warangal,Medium Enrolment,Healthy lifecycle engagement,231.41379310344828,,,0
+Telangana,Warangal Rural,Low Enrolment,Healthy lifecycle engagement,99.41666666666667,2694.0,8675.0,0
+Telangana,Warangal Urban,Low Enrolment,Healthy lifecycle engagement,106.7,3213.0,10229.0,0
+Telangana,Yadadri.,Medium Enrolment,Healthy lifecycle engagement,50.1764705882353,,,0
+Tripura,Dhalai,Medium Enrolment,Healthy lifecycle engagement,61.501661129568106,576.5714285714286,385.5238095238095,0
+Tripura,Dhalai  *,Low Enrolment,Healthy lifecycle engagement,84.0,,,0
+Tripura,Gomati,Low Enrolment,Healthy lifecycle engagement,94.625,248.1,569.9,0
+Tripura,Khowai,Low Enrolment,Healthy lifecycle engagement,181.05882352941177,62.06896551724138,67.93103448275862,0
+Tripura,North Tripura,Medium Enrolment,Healthy lifecycle engagement,100.9119170984456,907.1818181818181,393.3181818181818,0
+Tripura,Sepahijala,Medium Enrolment,Healthy lifecycle engagement,41.0716723549488,294.7647058823529,512.8823529411765,0
+Tripura,South Tripura,Medium Enrolment,Healthy lifecycle engagement,65.23389830508475,9573.0,5979.0,0
+Tripura,Unakoti,Low Enrolment,Healthy lifecycle engagement,135.28205128205127,180.83333333333334,105.05555555555556,0
+Tripura,West Tripura,Medium Enrolment,Healthy lifecycle engagement,92.96374622356495,1111.2558139534883,595.9302325581396,0
+Uttar Pradesh,Agra,High Enrolment,Healthy lifecycle engagement,15.027932254802831,166.76574307304787,236.54659949622166,0
+Uttar Pradesh,Aligarh,High Enrolment,Healthy lifecycle engagement,14.000729305943844,97.64044943820225,257.3460674157303,0
+Uttar Pradesh,Allahabad,High Enrolment,Healthy lifecycle engagement,64.92345568487019,4567.357142857143,7317.0,0
+Uttar Pradesh,Ambedkar Nagar,High Enrolment,Healthy lifecycle engagement,24.42052565707134,1035.7692307692307,1580.6923076923076,0
+Uttar Pradesh,Amethi,High Enrolment,Healthy lifecycle engagement,38.69598633646456,2012.9285714285713,2974.4285714285716,0
+Uttar Pradesh,Amroha,High Enrolment,Healthy lifecycle engagement,47.583955223880594,678.8709677419355,1746.516129032258,0
+Uttar Pradesh,Auraiya,Medium Enrolment,Healthy lifecycle engagement,57.68292682926829,,,0
+Uttar Pradesh,Ayodhya,Medium Enrolment,Mixed or transitional pattern,5.758314855875832,104.24137931034483,309.0689655172414,1
+Uttar Pradesh,Azamgarh,High Enrolment,Healthy lifecycle engagement,10.753538965876919,415.56081081081084,599.2702702702703,0
+Uttar Pradesh,Baghpat,High Enrolment,Healthy lifecycle engagement,18.725930680359436,158.88888888888889,312.5353535353535,0
+Uttar Pradesh,Bahraich,High Enrolment,"High enrolment, weak engagement",6.186589103646713,23.57752403846154,41.54086538461539,1
+Uttar Pradesh,Ballia,High Enrolment,Healthy lifecycle engagement,28.982621648460775,1926.6521739130435,2432.8695652173915,0
+Uttar Pradesh,Balrampur,High Enrolment,Healthy lifecycle engagement,11.03337041156841,202.36567164179104,334.4029850746269,0
+Uttar Pradesh,Banda,High Enrolment,Healthy lifecycle engagement,12.643706777316735,189.54166666666666,270.43055555555554,0
+Uttar Pradesh,Bara Banki,High Enrolment,Healthy lifecycle engagement,68.6475155279503,1272.375,2081.25,0
+Uttar Pradesh,Barabanki,Medium Enrolment,Mixed or transitional pattern,0.7115384615384616,47.80769230769231,44.40384615384615,1
+Uttar Pradesh,Bareilly,High Enrolment,Healthy lifecycle engagement,20.993360733480873,168.82222222222222,470.2952380952381,0
+Uttar Pradesh,Basti,High Enrolment,Healthy lifecycle engagement,28.87683125339121,1248.16,1831.32,0
+Uttar Pradesh,Bhadohi,Low Enrolment,Healthy lifecycle engagement,29.597826086956523,,,0
+Uttar Pradesh,Bijnor,High Enrolment,Healthy lifecycle engagement,69.70374923171481,1208.2291666666667,2897.1458333333335,0
+Uttar Pradesh,Budaun,High Enrolment,Healthy lifecycle engagement,13.279244424214838,151.62048192771084,642.5481927710844,0
+Uttar Pradesh,Bulandshahar,Low Enrolment,"Low enrolment, weak engagement",0.5714285714285714,,,1
+Uttar Pradesh,Bulandshahr,High Enrolment,Healthy lifecycle engagement,29.71193988310604,341.091743119266,1006.394495412844,0
+Uttar Pradesh,Chandauli,High Enrolment,Healthy lifecycle engagement,16.27990746860542,157.3310344827586,361.31724137931036,0
+Uttar Pradesh,Chitrakoot,Medium Enrolment,Healthy lifecycle engagement,48.44035346097202,5234.333333333333,8775.0,0
+Uttar Pradesh,Deoria,High Enrolment,Healthy lifecycle engagement,25.36021505376344,896.3962264150944,1075.0,0
+Uttar Pradesh,Etah,High Enrolment,Healthy lifecycle engagement,16.971640348050276,146.25190839694656,244.99236641221373,0
+Uttar Pradesh,Etawah,High Enrolment,Healthy lifecycle engagement,25.931533903884134,359.40983606557376,612.2131147540983,0
+Uttar Pradesh,Faizabad,High Enrolment,Healthy lifecycle engagement,48.25587958607714,22849.0,38699.0,0
+Uttar Pradesh,Farrukhabad,Medium Enrolment,Healthy lifecycle engagement,37.454867256637165,616.5555555555555,1387.4444444444443,0
+Uttar Pradesh,Fatehpur,High Enrolment,Healthy lifecycle engagement,16.790380047505938,256.9251700680272,416.3333333333333,0
+Uttar Pradesh,Firozabad,High Enrolment,Healthy lifecycle engagement,21.304661851608667,327.27272727272725,1147.7402597402597,0
+Uttar Pradesh,Gautam Buddha Nagar,High Enrolment,Healthy lifecycle engagement,6.043080737641407,71.39186295503212,230.79443254817988,0
+Uttar Pradesh,Ghaziabad,High Enrolment,Healthy lifecycle engagement,13.190030163518019,318.5,715.7105263157895,0
+Uttar Pradesh,Ghazipur,High Enrolment,Healthy lifecycle engagement,26.41819515774028,3958.0,6669.818181818182,0
+Uttar Pradesh,Gonda,High Enrolment,Healthy lifecycle engagement,20.414551164616594,216.02094240837695,383.5759162303665,0
+Uttar Pradesh,Gorakhpur,High Enrolment,Healthy lifecycle engagement,9.126944525975931,233.88392857142858,265.9166666666667,0
+Uttar Pradesh,Hamirpur,Medium Enrolment,Healthy lifecycle engagement,48.310463121783876,1313.2727272727273,2197.090909090909,0
+Uttar Pradesh,Hapur,High Enrolment,Healthy lifecycle engagement,17.16470588235294,497.25925925925924,977.8148148148148,0
+Uttar Pradesh,Hardoi,High Enrolment,Healthy lifecycle engagement,14.03395399780942,237.7967032967033,446.3626373626374,0
+Uttar Pradesh,Hathras,High Enrolment,Healthy lifecycle engagement,36.46499631540162,312.88461538461536,641.7884615384615,0
+Uttar Pradesh,Jalaun,High Enrolment,Healthy lifecycle engagement,31.46788990825688,387.5,599.4827586206897,0
+Uttar Pradesh,Jaunpur,High Enrolment,Healthy lifecycle engagement,17.7667606856151,497.6465517241379,724.2241379310345,0
+Uttar Pradesh,Jhansi,High Enrolment,Healthy lifecycle engagement,52.46052631578947,1075.6875,1302.25,0
+Uttar Pradesh,Jyotiba Phule Nagar,Low Enrolment,"Low enrolment, weak engagement",1.3636363636363635,,,1
+Uttar Pradesh,Kannauj,High Enrolment,Healthy lifecycle engagement,22.071967498549043,358.625,688.375,0
+Uttar Pradesh,Kanpur Dehat,High Enrolment,Healthy lifecycle engagement,18.211749788672865,126.625,317.7132352941176,0
+Uttar Pradesh,Kanpur Nagar,High Enrolment,Healthy lifecycle engagement,9.087609348478914,139.35812133072406,196.54794520547946,0
+Uttar Pradesh,Kasganj,High Enrolment,Healthy lifecycle engagement,22.40338028169014,255.46478873239437,350.8169014084507,0
+Uttar Pradesh,Kaushambi,High Enrolment,Healthy lifecycle engagement,38.87354085603113,369.5416666666667,957.8958333333334,0
+Uttar Pradesh,Kheri,High Enrolment,Healthy lifecycle engagement,14.09029702970297,140.0600706713781,400.63957597173146,0
+Uttar Pradesh,Kushinagar,High Enrolment,Healthy lifecycle engagement,26.128013300083126,3258.3125,6303.125,0
+Uttar Pradesh,Lalitpur,Medium Enrolment,Healthy lifecycle engagement,61.53710247349823,933.1153846153846,1055.423076923077,0
+Uttar Pradesh,Lucknow,High Enrolment,Healthy lifecycle engagement,15.969959946595461,229.64741641337386,383.7720364741641,0
+Uttar Pradesh,Maharajganj,High Enrolment,Healthy lifecycle engagement,6.072963723477071,107.88509316770187,196.5310559006211,0
+Uttar Pradesh,Mahoba,Medium Enrolment,Healthy lifecycle engagement,60.88916876574307,2987.75,4410.75,0
+Uttar Pradesh,Mainpuri,High Enrolment,Healthy lifecycle engagement,9.632152588555858,158.54198473282443,306.3206106870229,0
+Uttar Pradesh,Mathura,High Enrolment,Healthy lifecycle engagement,22.73643695014663,530.0169491525423,1109.1186440677966,0
+Uttar Pradesh,Mau,High Enrolment,Healthy lifecycle engagement,20.307952622673437,1501.1904761904761,2204.190476190476,0
+Uttar Pradesh,Meerut,High Enrolment,Healthy lifecycle engagement,15.079509632224168,294.55555555555554,579.625730994152,0
+Uttar Pradesh,Mirzapur,High Enrolment,Healthy lifecycle engagement,33.33123569794051,26879.0,49546.0,0
+Uttar Pradesh,Moradabad,High Enrolment,Healthy lifecycle engagement,18.477689055894785,244.36170212765958,560.936170212766,0
+Uttar Pradesh,Muzaffarnagar,High Enrolment,Healthy lifecycle engagement,41.996355353075174,617.3611111111111,1072.5833333333333,0
+Uttar Pradesh,Pilibhit,High Enrolment,Healthy lifecycle engagement,21.811636791066707,236.73381294964028,664.3597122302158,0
+Uttar Pradesh,Pratapgarh,High Enrolment,Healthy lifecycle engagement,37.720323182100685,7138.5,9667.0,0
+Uttar Pradesh,Prayagraj,Medium Enrolment,Healthy lifecycle engagement,10.15347721822542,168.39583333333334,353.75,0
+Uttar Pradesh,Rae Bareli,High Enrolment,Healthy lifecycle engagement,53.488155668358715,2090.8823529411766,3630.294117647059,0
+Uttar Pradesh,Raebareli,Low Enrolment,"Low enrolment, weak engagement",2.0,,,1
+Uttar Pradesh,Rampur,High Enrolment,Healthy lifecycle engagement,11.579885877318118,124.81496062992126,410.56692913385825,0
+Uttar Pradesh,Saharanpur,High Enrolment,Healthy lifecycle engagement,28.692861820563195,910.2153846153847,1595.4615384615386,0
+Uttar Pradesh,Sambhal,High Enrolment,Healthy lifecycle engagement,38.13997477931904,451.04761904761904,1384.5,0
+Uttar Pradesh,Sant Kabir Nagar,Medium Enrolment,Healthy lifecycle engagement,33.84201537147737,1794.0,3001.0,0
+Uttar Pradesh,Sant Ravidas Nagar,Medium Enrolment,Healthy lifecycle engagement,35.86181434599156,9075.0,12748.5,0
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,Low Enrolment,"Low enrolment, weak engagement",2.1,,,1
+Uttar Pradesh,Shahjahanpur,High Enrolment,Healthy lifecycle engagement,10.836838288614938,87.22005571030641,258.7632311977716,0
+Uttar Pradesh,Shamli,High Enrolment,Healthy lifecycle engagement,53.95900755124056,1191.25,1944.2083333333333,0
+Uttar Pradesh,Shrawasti,High Enrolment,Healthy lifecycle engagement,17.231936854887675,193.96428571428572,462.64285714285717,0
+Uttar Pradesh,Siddharthnagar,High Enrolment,Healthy lifecycle engagement,10.780806979280262,139.23706896551724,214.94396551724137,0
+Uttar Pradesh,Sitapur,High Enrolment,Healthy lifecycle engagement,17.427584741260226,96.05400372439479,189.5195530726257,0
+Uttar Pradesh,Sonbhadra,Medium Enrolment,Healthy lifecycle engagement,70.31353919239905,12839.5,21397.0,0
+Uttar Pradesh,Sultanpur,High Enrolment,Healthy lifecycle engagement,15.762705923589204,278.0660377358491,404.08490566037733,0
+Uttar Pradesh,Unnao,High Enrolment,Healthy lifecycle engagement,13.032965074839629,193.78378378378378,333.1126126126126,0
+Uttar Pradesh,Varanasi,High Enrolment,Healthy lifecycle engagement,9.185270161752896,157.56049382716049,219.83703703703705,0
+Uttarakhand,Almora,Low Enrolment,Healthy lifecycle engagement,352.75757575757575,12022.0,8261.0,0
+Uttarakhand,Bageshwar,Low Enrolment,Healthy lifecycle engagement,364.375,,,0
+Uttarakhand,Chamoli,Low Enrolment,Healthy lifecycle engagement,501.2105263157895,6013.5,3511.5,0
+Uttarakhand,Champawat,Low Enrolment,Healthy lifecycle engagement,211.18421052631578,,,0
+Uttarakhand,Dehradun,High Enrolment,Healthy lifecycle engagement,47.91006423982869,476.6698113207547,507.35849056603774,0
+Uttarakhand,Hardwar,Low Enrolment,Healthy lifecycle engagement,12.6,,,0
+Uttarakhand,Haridwar,Medium Enrolment,Healthy lifecycle engagement,121.39462809917356,2277.9375,2502.3125,0
+Uttarakhand,Nainital,Medium Enrolment,Healthy lifecycle engagement,145.0928961748634,464.0,621.8269230769231,0
+Uttarakhand,Pauri Garhwal,Medium Enrolment,Healthy lifecycle engagement,287.8269230769231,7421.5,6145.0,0
+Uttarakhand,Pithoragarh,Low Enrolment,Healthy lifecycle engagement,315.3529411764706,2403.2,1665.6,0
+Uttarakhand,Rudraprayag,Low Enrolment,Healthy lifecycle engagement,317.4583333333333,,,0
+Uttarakhand,Tehri Garhwal,Medium Enrolment,Healthy lifecycle engagement,148.390243902439,22371.0,15431.0,0
+Uttarakhand,Udham Singh Nagar,Medium Enrolment,Healthy lifecycle engagement,192.4140127388535,8405.2,19245.2,0
+Uttarakhand,Uttarkashi,Low Enrolment,Healthy lifecycle engagement,192.45833333333334,4476.5,2665.0,0
+WEST BENGAL,HOOGHLY,Low Enrolment,"Low enrolment, weak engagement",1.0,,,1
+West  Bengal,Hooghly,Low Enrolment,"Low enrolment, weak engagement",0.25,,,1
+West Bangal,Howrah,Low Enrolment,"Low enrolment, weak engagement",2.0,,,1
+West Bengal,Alipurduar,High Enrolment,"High enrolment, weak engagement",1.9966577540106951,10.888524590163934,18.59016393442623,3
+West Bengal,Bankura,High Enrolment,Healthy lifecycle engagement,53.745318352059925,1492.1379310344828,2945.310344827586,0
+West Bengal,Barddhaman,High Enrolment,Healthy lifecycle engagement,57.80800727934486,27179.333333333332,31514.333333333332,0
+West Bengal,Bardhaman,Medium Enrolment,Healthy lifecycle engagement,13.988165680473372,,,0
+West Bengal,Birbhum,High Enrolment,Healthy lifecycle engagement,41.46288209606987,710.6470588235294,1276.1176470588234,0
+West Bengal,Cooch Behar,High Enrolment,Healthy lifecycle engagement,9.708868501529052,141.69655172413792,438.06206896551726,0
+West Bengal,Dakshin Dinajpur,High Enrolment,Healthy lifecycle engagement,40.491916859122405,453.05,1285.375,0
+West Bengal,Darjeeling,High Enrolment,"High enrolment, weak engagement",5.932092004381161,39.420183486238535,51.5743119266055,1
+West Bengal,Darjiling,Low Enrolment,Healthy lifecycle engagement,6.0,,,0
+West Bengal,East Midnapore,Medium Enrolment,Healthy lifecycle engagement,54.69421487603306,14047.0,12558.0,0
+West Bengal,HOWRAH,Low Enrolment,"Low enrolment, weak engagement",0.0,,,1
+West Bengal,Haora,Medium Enrolment,Healthy lifecycle engagement,12.635568513119534,,,0
+West Bengal,Hawrah,Low Enrolment,"Low enrolment, weak engagement",1.0,,,1
+West Bengal,Hooghly,High Enrolment,Healthy lifecycle engagement,37.129606099110546,1071.0,1533.623188405797,0
+West Bengal,Howrah,High Enrolment,Healthy lifecycle engagement,26.606328182487122,1587.8666666666666,2105.6666666666665,0
+West Bengal,Hugli,Low Enrolment,"Low enrolment, weak engagement",3.6153846153846154,,,1
+West Bengal,Jalpaiguri,High Enrolment,Healthy lifecycle engagement,12.358937885253674,134.07823129251702,334.95238095238096,0
+West Bengal,Jhargram,Low Enrolment,Healthy lifecycle engagement,16.83783783783784,99.6842105263158,221.42105263157896,0
+West Bengal,Kalimpong,Low Enrolment,"Low enrolment, weak engagement",2.2097902097902096,2.7733333333333334,17.666666666666668,3
+West Bengal,Koch Bihar,Medium Enrolment,Mixed or transitional pattern,5.664041994750656,2628.0,11633.333333333334,1
+West Bengal,Kolkata,High Enrolment,Healthy lifecycle engagement,9.101271372205174,141.7265415549598,160.21447721179624,0
+West Bengal,Malda,High Enrolment,Healthy lifecycle engagement,20.75,1291.3142857142857,3520.9714285714285,0
+West Bengal,Maldah,Medium Enrolment,Healthy lifecycle engagement,13.370558375634518,,,0
+West Bengal,Medinipur,Low Enrolment,Healthy lifecycle engagement,10.0,,,0
+West Bengal,Murshidabad,High Enrolment,Healthy lifecycle engagement,46.93520942408377,17249.333333333332,39310.5,0
+West Bengal,Nadia,High Enrolment,Healthy lifecycle engagement,22.601187263896385,156.4788029925187,252.72319201995012,0
+West Bengal,North 24 Parganas,High Enrolment,Healthy lifecycle engagement,35.7922794117647,398.72030651341,646.2030651340996,0
+West Bengal,North Dinajpur,Low Enrolment,"Low enrolment, weak engagement",5.916666666666667,,,1
+West Bengal,North Twenty Four Parganas,Medium Enrolment,Healthy lifecycle engagement,15.49655172413793,8758.0,10206.0,0
+West Bengal,Paschim Bardhaman,Low Enrolment,Healthy lifecycle engagement,24.39316239316239,425.2307692307692,736.0,0
+West Bengal,Paschim Medinipur,High Enrolment,Healthy lifecycle engagement,38.6849710982659,3438.3333333333335,6838.277777777777,0
+West Bengal,Purba Bardhaman,Medium Enrolment,Healthy lifecycle engagement,26.03267973856209,214.09677419354838,509.2903225806452,0
+West Bengal,Purba Medinipur,High Enrolment,Healthy lifecycle engagement,98.56312625250501,4307.692307692308,4613.461538461538,0
+West Bengal,Purulia,Low Enrolment,Healthy lifecycle engagement,8.054347826086957,,,0
+West Bengal,Puruliya,High Enrolment,Healthy lifecycle engagement,22.689959839357428,1400.25,2766.78125,0
+West Bengal,South 24 Parganas,High Enrolment,Healthy lifecycle engagement,29.68920353982301,2059.872340425532,5459.510638297872,0
+West Bengal,South Dinajpur,Low Enrolment,Healthy lifecycle engagement,22.0,,,0
+West Bengal,South Twenty Four Parganas,Medium Enrolment,Healthy lifecycle engagement,17.987046632124354,19412.0,20490.0,0
+West Bengal,Uttar Dinajpur,High Enrolment,Healthy lifecycle engagement,6.278407720144752,178.19291338582678,705.0,0
+West Bengal,West Midnapore,Medium Enrolment,Healthy lifecycle engagement,16.257009345794394,10881.0,15939.0,0
+West Bengal,hooghly,Low Enrolment,"Low enrolment, weak engagement",3.0,,,1
+West bengal,hooghly,Low Enrolment,"Low enrolment, weak engagement",2.0,,,1
+Westbengal,Hooghly,Low Enrolment,"Low enrolment, weak engagement",2.0,,,1
